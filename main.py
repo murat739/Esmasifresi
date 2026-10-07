@@ -24,7 +24,7 @@ st.markdown(
         background-color: #FEFCE8;
         padding: 12px;
         border-radius: 6px;
-        border: 1px solid #FEF08a;
+        border: 1px solid #FEF08A;
         font-size: 13px;
         color: #713F12;
         margin-top: 8px;
@@ -291,7 +291,7 @@ esma_veritabani = [
     },
 ]
 
-# Kalan 89 ismin tam ansiklopedik veritabanı (Anlam, Ayet, Hadis ve Risale Örnekleriyle eksiksiz doldurulmuştur)
+# Kalan 89 ismin tam ansiklopedik veritabanı
 kalan_esmalar = [
     (
         11,
@@ -446,15 +446,14 @@ kalan_esmalar = [
     (
         21,
         "El-Kabid",
-        "الباسط / القابض",
-        "Dilediğinin rızkını veya kalbini daraltan (Kabid) / açıp genişleten (Basit).",
+        "القابض",
+        "Dilediğinin rızkını veya kalbini daraltan.",
         "Bakara Suresi, 245",
-        "Allah sıkar (kabzeder) ve açar (basit eder)...",
+        "Allah sıkar (kabzeder) ve açar...",
         "Bakara, 245",
         (
-            "Bediüzzaman Hazretleri, insan ruhundaki kabz ve bast hallerinin,"
-            " kâinattaki mevsimsel daralma ve genişlemelerin bu iki isimle"
-            " idare edildiğini belirtir."
+            "Bediüzzaman Hazretleri, insan ruhundaki kabz hallerinin,"
+            " kâinattaki mevsimsel daralmaların bu isimle idare edildiğini belirtir."
         ),
         "Mektubat",
     ),
@@ -590,8 +589,7 @@ kalan_esmalar = [
         31,
         "El-Latif",
         "اللطيف",
-        "Lütuf sahibi, en ince işlerin detaylarını bilen ve zarif ihsanlarda"
-        " bulunan.",
+        "Lütuf sahibi, en ince işlerin detaylarını bilen ve zarif ihsanlarda bulunan.",
         "Mülk Suresi, 14",
         "O latiftir, her şeyden haberdardır.",
         "Mülk, 14",
@@ -619,8 +617,7 @@ kalan_esmalar = [
         33,
         "El-Halim",
         "الحليم",
-        "Cezada acele etmeyen, kullarının kusurlarına karşı yumuşak"
-        " davranan.",
+        "Cezada acele etmeyen, kullarının kusurlarına karşı yumuşak davranan.",
         "Bakara Suresi, 235",
         "Biliniz ki Allah bağışlayıcıdır, halimdir.",
         "Bakara, 235",
@@ -849,7 +846,7 @@ kalan_esmalar = [
     (
         49,
         "El-Mecid",
-        "المجid",
+        "المجيد",
         "Şanı yüce, şerefi ve kadrü kıymeti en büyük olan.",
         "Hud Suresi, 73",
         "Şüphesiz O övülmüştür, şanı yücedir (Mecid).",
@@ -921,7 +918,7 @@ kalan_esmalar = [
         54,
         "El-Kavi",
         "القوي",
-        "Sınırsız güç ve kudret sahibi, hiç züşmeyen.",
+        "Sınırsız güç ve kudret sahibi, hiç düşmeyen.",
         "Hac Suresi, 74",
         "Şüphesiz Allah kuvvetlidir, azizdir.",
         "Hac, 74",
@@ -1288,8 +1285,7 @@ kalan_esmalar = [
         "البّر",
         "İyilik ve ihsanı bol olan, kullarına kolaylık veren.",
         "Tur Suresi, 28",
-        "Şüphesiz biz daha önce O'na yalvardık. O gerçekten iyilik"
-        " edendir (berr).",
+        "Şüphesiz biz daha önce O'na yalvardık. O gerçekten iyilik edendir (berr).",
         "Tur, 28",
         (
             "Bediüzzaman Hazretleri, kullarına sürekli iyilik ve rahmet"
@@ -1400,8 +1396,7 @@ kalan_esmalar = [
         88,
         "El-Cami",
         "الجامع",
-        "İstediğini istediği yerde toplayan, haşir gününde mahlukatı bir araya"
-        " getiren.",
+        "İstediğini istediği yerde toplayan, haşir gününde mahlukatı bir araya getiren.",
         "Ali İmran Suresi, 9",
         "Şüphesiz Allah insanları gelmesinde şüphe olmayan günde toplayacaktır.",
         "Ali İmran, 9",
@@ -1417,7 +1412,7 @@ kalan_esmalar = [
         "الغني",
         "Zengin, hiçbir şeye ihtiyacı olmayan, her şey O'na muhtaç.",
         "Fatır Suresi, 15",
-        "Ey insanlarlar, siz Allah'a muhtaçsınız; Allah ise Gani'dir.",
+        "Ey insanlar, siz Allah'a muhtaçsınız; Allah ise Gani'dir.",
         "Fatır, 15",
         (
             "Bediüzzaman Hazretleri, hiçbir şeye el uzatmayan ama her şeye yeten"
@@ -1445,8 +1440,7 @@ kalan_esmalar = [
         "المانع",
         "Dilediği şeyin gerçekleşmesine engel olan, zararları savan.",
         "En'am Suresi, 17",
-        "Eğer Allah sana bir zarar dokundurursa, O'ndan başka onu giderecek"
-        " yoktur.",
+        "Eğer Allah sana bir zarar dokundurursa, O'ndan başka onu giderecek yoktur.",
         "En'am, 17",
         (
             "Bediüzzaman Hazretleri, kötü niyetlerin ve afetlerin ilahi"
@@ -1532,7 +1526,7 @@ kalan_esmalar = [
         "الباقي",
         "Varlığının sonu olmayan, ebedi.",
         "Rahman Suresi, 27",
-        "Ancak celal ve ikram sahibi Rabbinin zatı baki kalacaktır.",
+        "Ancak celal ve ikram sahibi Rabbin zatı baki kalacaktır.",
         "Rahman, 27",
         (
             "Bediüzzaman Hazretleri 'Baki kalmak ister misiniz? Baki bir Zat'a"
@@ -1573,20 +1567,20 @@ kalan_esmalar = [
 
 # Kalan esmaları listeye ekleyelim
 for item in kalan_esmalar:
-  esma_veritabani.append({
-      "id": item[0],
-      "isim": item[1],
-      "arapca": item[2],
-      "anlamı": item[3],
-      "anlam_kaynagi": "Kur'an-ı Kerim, Lügat ve Tefsir Kaynakları",
-      "ayet": f"İlgili ayet meali ({item[4]})",
-      "ayet_sure": item[4],
-      "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
-      "hadis": f"'{item[1]} ismi ile dua edenlerin duası makbuldür.'",
-      "hadis_kaynagi": item[6],
-      "risale_ornek": item[7],
-      "risale_kaynak": f"Risale-i Nur Külliyatı ({item[8]})",
-  })
+    esma_veritabani.append({
+        "id": item[0],
+        "isim": item[1],
+        "arapca": item[2],
+        "anlamı": item[3],
+        "anlam_kaynagi": "Kur'an-ı Kerim, Lügat ve Tefsir Kaynakları",
+        "ayet": f"İlgili ayet meali ({item[4]})",
+        "ayet_sure": item[4],
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": f"'{item[1]} ismi ile dua edenlerin duası makbuldür.'",
+        "hadis_kaynagi": item[6],
+        "risale_ornek": item[7],
+        "risale_kaynak": f"Risale-i Nur Külliyatı ({item[8]})",
+    })
 
 # ID'ye göre sıralayalım
 esma_veritabani = sorted(esma_veritabani, key=lambda x: x["id"])
@@ -1594,8 +1588,7 @@ esma_veritabani = sorted(esma_veritabani, key=lambda x: x["id"])
 # --- ARAYÜZ / ARAMA ---
 st.markdown("### 🔍 99 Esma-i Hüsna Arşivi ve Detaylı İnceleme")
 arama_kelimesi = st.text_input(
-    "Aramak istediğiniz ismi yazın (Örn: Allah, Kuddus, Resşid vb. ya da"
-    " boş bırakın):",
+    "Aramak istediğiniz ismi yazın (Örn: Allah, Kuddus, Reşid vb. ya da boş bırakın):",
     "",
 )
 
@@ -1607,13 +1600,12 @@ filtrelenmis_esmalar = [
 ]
 
 if not filtrelenmis_esmalar:
-  st.warning("Aradığınız kriterlere uygun esma bulunamadı.")
+    st.warning("Aradığınız kriterlere uygun esma bulunamadı.")
 else:
-  for esma in filtrelenmis_esmalar:
-    with st.container():
-      # Her ismin detayları kayar çubuk (scroll-box) içine alınarak kodun/ekranın taşması engellenmiştir.
-      st.markdown(
-          f"""
+    for esma in filtrelenmis_esmalar:
+        with st.container():
+            st.markdown(
+                f"""
                 <div class="esma-card">
                     <h3>#{esma['id']} - {esma['isim']} ({esma['arapca']})</h3>
                     <div class="scroll-box">
@@ -1624,8 +1616,8 @@ else:
                     </div>
                 </div>
                 """,
-          unsafe_allow_html=True,
-      )
+                unsafe_allow_html=True,
+            )
 
 # --- HUKUKİ BİLGİLENDİRME VE SORUMLULUK REDDİ (DISCLAIMER) ---
 st.markdown(
