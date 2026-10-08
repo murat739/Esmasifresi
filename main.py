@@ -291,7 +291,7 @@ esma_veritabani = [
     },
 ]
 
-# Kalan 89 ismin tam ansiklopedik veritabanı
+# Kalan 89 ismin tam ansiklopedik veritabanı (Ayet metinleri doğrudan işlenmiştir)
 kalan_esmalar = [
     (
         11,
@@ -299,7 +299,7 @@ kalan_esmalar = [
         "المتكبر",
         "Büyüklük ve azamette eşi olmayan, her şeyde büyüklüğünü gösteren.",
         "Haşr Suresi, 23",
-        "Büyüklük benim ridadır...",
+        "O, kendisinden başka ilah olmayan Allah'tır; Melik'tir, Kuddus'tür, Selam'dır, Mümin'dir, Müheymin'dir, Aziz'dir, Cebbar'dır, Mütekebbir'dir.",
         "Müslim, Birr, 136",
         (
             "Bediüzzaman Hazretleri, kâinattaki haşmetli eserlerin ve dağlar"
@@ -314,7 +314,7 @@ kalan_esmalar = [
         "الخالق",
         "Yoktan var eden, ölçüye göre yaratan ve şekil veren.",
         "Haşr Suresi, 24",
-        "O, yaratan, yoktan var eden...",
+        "O, yaratan, yoktan var eden, şekil veren Allah'tır.",
         "Buhari, Tevhid, 1",
         (
             "Bediüzzaman Hazretleri, her bir zerrede ve canlıda hiçbir örnek"
@@ -359,7 +359,7 @@ kalan_esmalar = [
         "الغفار",
         "Günahları örten, mağfireti ve bağışlaması çok olan.",
         "Taha Suresi, 82",
-        "Şüphesiz ben, tevbe eden... kimse için Gaffar'ım.",
+        "Şüphesiz ben, tevbe eden, iman edip salih amel işleyen, sonra da doğru yola giren kimse için Gaffar'ım.",
         "Taha, 82",
         (
             "Bediüzzaman Hazretleri, kulların kusurlarını ve çirkinliklerini"
@@ -1565,7 +1565,7 @@ kalan_esmalar = [
     ),
 ]
 
-# Kalan esmaları listeye ekleyelim
+# Kalan esmaları listeye ekleyelim (Düzeltilmiş ayet metinleriyle)
 for item in kalan_esmalar:
     esma_veritabani.append({
         "id": item[0],
@@ -1573,7 +1573,7 @@ for item in kalan_esmalar:
         "arapca": item[2],
         "anlamı": item[3],
         "anlam_kaynagi": "Kur'an-ı Kerim, Lügat ve Tefsir Kaynakları",
-        "ayet": f"İlgili ayet meali ({item[4]})",
+        "ayet": item[5],  # Artık yer tutucu yerine doğrudan tam ayet metni işlendi
         "ayet_sure": item[4],
         "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
         "hadis": f"'{item[1]} ismi ile dua edenlerin duası makbuldür.'",
