@@ -51,162 +51,84 @@ esma_veritabani = [
         "id": 1,
         "isim": "Allah",
         "arapca": "الله",
-        "anlamı": (
-            "Bütün ilahi isimleri ve sıfatları kapsayan, esma-i hüsnanın en"
-            " büyük (ism-i azam) ve zatı muteber olan özel ismi."
-        ),
-        "anlam_kaynagi": (
-            "Kur'an-ı Kerim ve Arap lügat ilmi (Kamus-u Muhit, Lisanü'l-Arab)"
-        ),
+        "anlamı": "Bütün ilahi isimleri ve sıfatları kapsayan, esma-i hüsnanın en büyük (ism-i azam) ve zatı muteber olan özel ismi.",
+        "anlam_kaynagi": "Kur'an-ı Kerim ve Arap lügat ilmi (Kamus-u Muhit, Lisanü'l-Arab)",
         "ayet": "Şüphesiz ben Allah'ım. Benden başka ilah yoktur. Öyleyse bana ibadet et...",
         "ayet_sure": "Taha Suresi, 14. Ayet",
         "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Allah'ın doksan dokuz ismi vardır; bunları ezberleyen cennete"
-            " girer.'"
-        ),
-        "hadis_kaynagi": "Sahih-i Buhari, Deavat, 68; Müslim, Zikir, 5",
-        "risale_ornek": (
-            "Bediüzzaman Said Nursi Hazretleri, 'Allah' ismini bütün esmanın"
-            " tahtında bir sultan, merkezî bir nokta olarak açıklar. Kâinattaki"
-            " mucizevi sanatlar ve ilahi tecelliler bu ismin etrafında"
-            " halkalanır; kainatın sığınağı ve mutlak mabududur."
-        ),
-        "risale_kaynak": (
-            "Risale-i Nur Külliyatı, Şualar (Birinci Şua / İsm-i Azam)"
-        ),
+        "hadis": "'Şüphesiz Allah katında en sevimli sözler dörttür: Sübhanallahi ve'l-hamdü lillahi ve la ilahe illallahu vellahu ekber...'",
+        "hadis_kaynagi": "Sahih-i Müslim, Âdâb, 12",
+        "risale_ornek": "Bediüzzaman Said Nursi Hazretleri, 'Allah' ismini bütün esmanın tahtında bir sultan, merkezî bir nokta olarak açıklar. Kâinattaki mucizevi sanatlar ve ilahi tecelliler bu ismin etrafında halkalanır.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar (Birinci Şua / İsm-i Azam)",
     },
     {
         "id": 2,
         "isim": "Ar-Rahman",
         "arapca": "الرحمن",
-        "anlamı": (
-            "Dünyada bütün mahlukata, ayırt etmeksizin rızık, şefkat ve"
-            " merhamet eden."
-        ),
+        "anlamı": "Dünyada bütün mahlukata, ayırt etmeksizin rızık, şefkat ve merhamet eden.",
         "anlam_kaynagi": "Elmalılı Hamdi Yazır, Hak Dini Kur'an Dili Tefsiri",
         "ayet": "Rahman, Kur'an'ı öğretti. İnsanı yarattı, ona beyanı öğretti.",
         "ayet_sure": "Rahman Suresi, 1-4. Ayetler",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Rahman, rahmetin aslını yaratmış ve onu yüz parçaya bölmüştür;"
-            " bir parçasını yeryüzüne indirmiştir.'"
-        ),
-        "hadis_kaynagi": "Sahih-i Müslim, Tevbe, 19",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kâinattaki şefkatli annelerin yavrularına"
-            " düşkünlüğünü, bahar mevsimindeki rızık bolluğunu ve mahlukata"
-            " edilen genel ihsanları 'Rahman' isminin geniş tecellisi olarak"
-            " açıklar."
-        ),
-        "risale_kaynak": (
-            "Risale-i Nur Külliyatı, Sözler (33. Söz / 27. Mektup)"
-        ),
+        "hadis": "'Allah rahmeti yarattığı gün yüz parça yaptı; doksan dokuzunu kendi katında tuttu, yeryüzüne bir parçasını indirdi. İşte bu parça sebebiyledir ki yaratıklar birbirine merhamet eder.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 55; Müslim, Tevbe, 11",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki şefkatli annelerin yavrularına düşkünlüğünü, bahar mevsimindeki rızık bolluğunu ve mahlukata edilen genel ihsanları 'Rahman' isminin geniş tecellisi olarak açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Sözler (33. Söz)",
     },
     {
         "id": 3,
         "isim": "Ar-Rahim",
         "arapca": "الرحيم",
-        "anlamı": (
-            "Ahirette sadece mümin kullarına sonsuz ihsan, ikram ve merhamette"
-            " bulunan."
-        ),
+        "anlamı": "Ahirette sadece mümin kullarına sonsuz ihsan, ikram ve merhamette bulunan.",
         "anlam_kaynagi": "İmam Gazali, Al-Maqsad al-Asna",
         "ayet": "...Ve O, müminlere karşı çok merhametlidir (Rahim'dir).",
         "ayet_sure": "Ahzab Suresi, 43. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Allah Teala, kıyamet gününde rahmetini yüzer katına çıkarır...'"
-        ),
-        "hadis_kaynagi": "Tirmizi, Deavat, 82",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri Rahman ismini dünya mutfağındaki genel"
-            " ikramlara benzetirken, Rahim ismini ise o mutfaktaki özel"
-            " lezzetlerin iman sahiplerine ikram edilmesi olarak, ebedi"
-            " saadetteki tecellisiyle izah eder."
-        ),
-        "risale_kaynak": (
-            "Risale-i Nur Külliyatı, Lem'alar (30. Lem'a / İsm-i Rahim)"
-        ),
+        "hadis": "'Müminlerin imanları sebebiyle Allah onları ahirette Rahim ismiyle hususi rahmetine mazhar kılacak ve Cennet'te in'am eylayecektir.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 82 (Mefhumu)",
+        "risale_ornek": "Bediüzzaman Hazretleri Rahman ismini dünya mutfağındaki genel ikramlara benzetirken, Rahim ismini ise o mutfaktaki özel lezzetlerin iman sahiplerine ikram edilmesi olarak izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar (30. Lem'a / İsm-i Rahim)",
     },
     {
         "id": 4,
         "isim": "El-Melik",
         "arapca": "الملك",
-        "anlamı": (
-            "Kâinatın ve her şeyin hakiki sahibi, mutlak hükümdarı ve"
-            " yöneticisi."
-        ),
+        "anlamı": "Kâinatın ve her şeyin hakiki sahibi, mutlak hükümdarı ve yöneticisi.",
         "anlam_kaynagi": "Fahreddin er-Razi, Levamiu'l-Bayyinat",
-        "ayet": (
-            "Mutlak hükümranlık elinde olan Allah, yüceler yücesidir. O, her"
-            " şeye hakkıyla gücü yetendir."
-        ),
+        "ayet": "Mutlak hükümranlık elinde olan Allah, yüceler yücesidir. O, her şeye hakkıyla gücü yetendir.",
         "ayet_sure": "Mülk Suresi, 1. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Kıyamet günü Allah yeryüzünü avucuna alacak... Ben Melik'im"
-            " diyecektir.'"
-        ),
+        "hadis": "'Kıyamet günü yeryüzü O'nun avucunda olacak, gökleri de sağ eline dürüp bükerek 'Ben Melik'im, nerede yeryüzünün kralları?' diyecektir.'",
         "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 19",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kâinattaki muazzam saltanat ve nizam-ı"
-            " ekserinin, kainat sarayındaki memurların ancak mutlak bir 'Melik'"
-            " isminin celaliyle idare edilebileceğini açıklar."
-        ),
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki muazzam saltanat ve nizam-ı ekserinin, kainat sarayındaki memurların ancak mutlak bir 'Melik' isminin celaliyle idare edilebileceğini açıklar.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat (20. Mektup)",
     },
     {
         "id": 5,
         "isim": "El-Kuddus",
         "arapca": "القدوس",
-        "anlamı": (
-            "Her türlü eksiklikten, kusurdan, acizlikten ve noksanlıktan münezzeh"
-            " olan, tertemiz."
-        ),
+        "anlamı": "Her türlü eksiklikten, kusurdan, acizlikten ve noksanlıktan münezzeh olan, tertemiz.",
         "anlam_kaynagi": "İbn Manzur, Lisanü'l-Arab",
-        "ayet": (
-            "Göklerde ve yerde ne varsa O'nu tesbih eder. O, Aziz'dir,"
-            " Hakim'dir."
-        ),
+        "ayet": "Göklerde ve yerde ne varsa O'nu tesbih eder. O, Aziz'dir, Hakim'dir.",
         "ayet_sure": "Cuma Suresi, 1. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "Resulullah (s.a.v.) rükû ve secdelerinde 'Sübbuğun Kuddusun' derdi."
-        ),
+        "hadis": "Hz. Aişe (r.anha) validemizden rivayet edildiğine göre Resulullah (s.a.v.) rükû ve secdelerinde 'Sübbuğun Kuddusün, Rabbü'l-meliketi ve'r-ruh' derdi.",
         "hadis_kaynagi": "Sahih-i Müslim, Salat, 223",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri 30. Lem'a'da 'Kuddus' ismini kâinat sarayındaki"
-            " daimi temizlik nizamı ile açıklar: Eğer kâinatta bu daimi"
-            " temizlik olmasaydı, birkaç gün içinde mahlukat murdarlıktan"
-            " boğulurdu. Denizlerden rüzgarlara kadar her şey bu ismin"
-            " dellalıdır."
-        ),
-        "risale_kaynak": (
-            "Risale-i Nur Külliyatı, Lem'alar (30. Lem'a / İsm-i Kuddus)"
-        ),
+        "risale_ornek": "Bediüzzaman Hazretleri 30. Lem'a'da 'Kuddus' ismini kâinat sarayındaki daimi temizlik nizamı ile açıklar: Eğer kâinatta bu daimi temizlik olmasaydı mahlukat murdarlıktan boğulurdu.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar (30. Lem'a / İsm-i Kuddus)",
     },
     {
         "id": 6,
         "isim": "Es-Selam",
         "arapca": "السلام",
-        "anlamı": (
-            "Her türlü tehlikeden kurtaran, esenlik veren, kullarına selamet"
-            " bahşeden."
-        ),
+        "anlamı": "Her türlü tehlikeden kurtaran, esenlik veren, kullarına selamet bahşeden.",
         "anlam_kaynagi": "Elmalılı Hamdi Yazır Tefsiri",
         "ayet": "O, kendisinden başka ilah olmayan Allah'tır; Melik'tir, Kuddus'tür, Selam'dır...",
         "ayet_sure": "Haşr Suresi, 23. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Allahım, sen Selamsın, selamet sensin. Ey celal ve ikram sahibi!'"
-        ),
+        "hadis": "Resulullah (s.a.v.) namazdan çıktığında üç defa 'Estağfirullah' der, ardından şöyle dua ederdi: 'Allahümme ente's-selâmü ve minke's-selâm...'",
         "hadis_kaynagi": "Sahih-i Müslim, Mesacid, 135",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kâinattaki fırtınalar içinde mahlukatın"
-            " güven bulmasını, anne karnındaki ceninin selametle dünyaya"
-            " gelmesini 'Selam' isminin merhametli tecellisiyle izah eder."
-        ),
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki fırtınalar içinde mahlukatın güven bulmasını, anne karnındaki ceninin selametle dünyaya gelmesini 'Selam' isminin tecellisiyle izah eder.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Şualar (3. Şua)",
     },
     {
@@ -218,12 +140,9 @@ esma_veritabani = [
         "ayet": "...O, kendisinden başka ilah olmayan... Mümin'dir...",
         "ayet_sure": "Haşr Suresi, 23. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": "'Mümin, insanların canları ve malları konusunda güvende oldukları kimsedir.'",
-        "hadis_kaynagi": "Tirmizi, İman, 2",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kalplere verilen iman nurunun ve emniyet"
-            " duygusunun doğrudan 'Mümin' isminin bir lütfu olduğunu vurgular."
-        ),
+        "hadis": "'Mümin, insanların canlarının ve mallarının kendisine karşı emniyette olduğu kimsedir.'",
+        "hadis_kaynagi": "Tirmizi, İman, 2; Nesai, İman, 8",
+        "risale_ornek": "Bediüzzaman Hazretleri, kalplere verilen iman nurunun ve emniyet duygusunun doğrudan 'Mümin' isminin bir lütfu olduğunu vurgular.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Mesnevi-i Nuriye",
     },
     {
@@ -235,1352 +154,1286 @@ esma_veritabani = [
         "ayet": "...Müheymin'dir, Aziz'dir...",
         "ayet_sure": "Haşr Suresi, 23. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": (
-            "'Kul ne zaman Allah'ı zikrederse melekler ve koruması etrafını"
-            " sarar.'"
-        ),
-        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 38",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kâinattaki hiçbir zerratın başıboş"
-            " bırakılmadığını, her birinin Hak Teala tarafından titizlikle"
-            " gözetildiğini bu ismin tecellisiyle açıklar."
-        ),
+        "hadis": "'Kulum bana bir karış yaklaşırsa ben ona bir kulaç yaklaşırım... O beni yalnız başına zikrederse ben de onu kendi katımda zikrederim (gözetirim).'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 50",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki hiçbir zerratın başıboş bırakılmadığını, her birinin Hak Teala tarafından titizlikle gözetildiğini bu ismin tecellisiyle açıklar.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Asa-yı Musa",
     },
     {
         "id": 9,
         "isim": "El-Aziz",
         "arapca": "العزيز",
-        "anlamı": (
-            "İzzet sahibi, mutlak galip, mağlup edilmesi mümkün olmayan,"
-            " yegâne güçlü."
-        ),
+        "anlamı": "İzzet sahibi, mutlak galip, mağlup edilmesi mümkün olmayan, yegâne güçlü.",
         "anlam_kaynagi": "İbn Manzur",
         "ayet": "Şüphesiz Allah Aziz'dir, intikam sahibidir.",
         "ayet_sure": "Ali İmran Suresi, 4. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": "'İzzet Allah'ın, inayet Resulullah'ın ve müminlerindir.'",
-        "hadis_kaynagi": "Müsned-i Ahmed bin Hanbel",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, en aciz mahlukatın bile devasa güçlere"
-            " karşı galip gelmesini (örneğin bal arısının savunma mekanizmasını)"
-            " Aziz isminin zayıflara merhameten verdiği kudretle açıklar."
-        ),
+        "hadis": "'Aziz ve celil olan Allah buyurur ki: İzzet benim ridasım, kibriya ise izarımıdır; kim bunlardan biri konusunda benimle çekişirse ona azap ederim.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Birr, 136",
+        "risale_ornek": "Bediüzzaman Hazretleri, en aciz mahlukatın bile devasa güçlere karşı galip gelmesini (örneğin bal arısının savunma mekanizmasını) Aziz isminin zayıflara verdiği kudretle açıklar.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Sözler (32. Söz)",
     },
     {
         "id": 10,
         "isim": "El-Cebbar",
         "arapca": "الجبار",
-        "anlamı": (
-            "Kırıkları onaran, eksikleri tamamlayan, iradesini her durumda"
-            " geçiren."
-        ),
+        "anlamı": "Kırıkları onaran, eksikleri tamamlayan, iradesini her durumda geçiren.",
         "anlam_kaynagi": "Elmalılı Hamdi Yazır",
         "ayet": "...Aziz'dir, Cebbar'dır, Mütekebbir'dir...",
         "ayet_sure": "Haşr Suresi, 23. Ayet",
         "ayet_kaynagi": "Kur'an-ı Kerim Meali",
-        "hadis": "'Kıyamet günü Allah cebarları küçük karıncalar gibi haşredecektir.'",
+        "hadis": "'Kıyamet gününde büyüklük taslayanlar (cebbarlar), insan suretinde küçük karıncalar gibi haşrolunurlar; her taraftan onları zillet bürür.'",
         "hadis_kaynagi": "Tirmizi, Kıyamet, 47",
-        "risale_ornek": (
-            "Bediüzzaman Hazretleri, kırılan kemiklerin kaynamasını, solan"
-            " baharın yeniden diriltilmesini ve ezilenlerin haklarının"
-            " alınmasını 'Cebbar' isminin onarıcı tecellisi olarak nitelendirir."
-        ),
+        "risale_ornek": "Bediüzzaman Hazretleri, kırılan kemiklerin kaynamasını, solan baharın yeniden diriltilmesini ve ezilenlerin haklarının alınmasını 'Cebbar' isminin onarıcı tecellisi olarak nitelendirir.",
         "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar",
     },
-]
-
-# Kalan 89 ismin tam ansiklopedik veritabanı (Ayet metinleri doğrudan işlenmiştir)
-kalan_esmalar = [
-    (
-        11,
-        "El-Mütekebbir",
-        "المتكبر",
-        "Büyüklük ve azamette eşi olmayan, her şeyde büyüklüğünü gösteren.",
-        "Haşr Suresi, 23",
-        "O, kendisinden başka ilah olmayan Allah'tır; Melik'tir, Kuddus'tür, Selam'dır, Mümin'dir, Müheymin'dir, Aziz'dir, Cebbar'dır, Mütekebbir'dir.",
-        "Müslim, Birr, 136",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki haşmetli eserlerin ve dağlar"
-            " gibi azametli mahlukatın tek sahibinin büyüklüğünü ispat ettiğini"
-            " belirtir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        12,
-        "El-Halık",
-        "الخالق",
-        "Yoktan var eden, ölçüye göre yaratan ve şekil veren.",
-        "Haşr Suresi, 24",
-        "O, yaratan, yoktan var eden, şekil veren Allah'tır.",
-        "Buhari, Tevhid, 1",
-        (
-            "Bediüzzaman Hazretleri, her bir zerrede ve canlıda hiçbir örnek"
-            " olmaksızın yapılan mucizevi yaratılışı Halık isminin daimi"
-            " tecellisiyle izah eder."
-        ),
-        "33. Söz",
-    ),
-    (
-        13,
-        "El-Bari",
-        "الباري",
-        "Örneksiz ve kusursuz olarak uyumlu yaratan.",
-        "Haşr Suresi, 24",
-        "O, Halık, Bari, Musavvir...",
-        "Müslim, Zikir, 17",
-        (
-            "Bediüzzaman Hazretleri, uzuvların birbiriyle olan mükemmel ahenk"
-            " ve dengesini Bari isminin kusursuz icraatıyla açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        14,
-        "El-Musavvir",
-        "المصور",
-        "Varlıklara en güzel biçimini ve ayırt edici suretini veren.",
-        "Haşr Suresi, 24",
-        "Rahim olan Allah sizi rahimlerde dilediği gibi şekillendirir.",
-        "Ali İmran, 6",
-        (
-            "Bediüzzaman Hazretleri, yeryüzündeki milyarlarca insan yüzünün"
-            " aynı malzemeden yapılmasına rağmen birbirinden tamamen farklı"
-            " ve tanınabilir olmasını Musavvir isminin mucizesi olarak"
-            " vurgular."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        15,
-        "El-Gaffar",
-        "الغفار",
-        "Günahları örten, mağfireti ve bağışlaması çok olan.",
-        "Taha Suresi, 82",
-        "Şüphesiz ben, tevbe eden, iman edip salih amel işleyen, sonra da doğru yola giren kimse için Gaffar'ım.",
-        "Taha, 82",
-        (
-            "Bediüzzaman Hazretleri, kulların kusurlarını ve çirkinliklerini"
-            " gece örtüsü gibi örten ve affeden ilahi merhameti Gaffar ismiyle"
-            " açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        16,
-        "El-Kahhar",
-        "القهار",
-        "Her şeyi mutlak egemenliği altında tutan, isyankar ve zalimleri kahreden.",
-        "Ra'd Suresi, 16",
-        "O, her şey üzerinde mutlak hakim olan Kahhar'dır.",
-        "Ra'd, 16",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki nizama karşı gelen ve fesat"
-            " çıkaran unsurların Kahhar isminin celaliyle tesirsiz hale"
-            " getirildiğini açıklar."
-        ),
-        "Şualar",
-    ),
-    (
-        17,
-        "El-Vehhab",
-        "الوهاب",
-        "Karşılıksız bol bol ihsan eden, lütuf ve inayet sahibi.",
-        "Sad Suresi, 9",
-        "Yoksa aziz ve vehhab olan Rabbinin hazineleri onların yanında mı?",
-        "Sad, 9",
-        (
-            "Bediüzzaman Hazretleri, mahlukata hiçbir bedel istemeden sunulan"
-            " nefes, su, ışık ve hayat gibi muazzam nimetleri Vehhab isminin"
-            " cömertliğiyle izah eder."
-        ),
-        "20. Mektup",
-    ),
-    (
-        18,
-        "El-Rezzak",
-        "الرزاق",
-        "Bütün mahlukatın rızkını veren ve ihtiyaçlarını karşılayan.",
-        "Zariyat Suresi, 58",
-        "Şüphesiz rızık veren, mutlak kudret sahibi olan Allah'tır.",
-        "Zariyat, 58",
-        (
-            "Bediüzzaman Hazretleri, dilsiz hayvanlardan derin denizlerdeki"
-            " balıklara kadar en zayıf mahlukatın bile unutmaksızın rızkının"
-            " verilmesini Rezzak isminin azametli mucizesi olarak gösterir."
-        ),
-        "Sözler (10. Söz)",
-    ),
-    (
-        19,
-        "El-Fettah",
-        "الفتاح",
-        "Her türlü güçlüğü kolaylaştıran, rahmet kapılarını açan ve hükmeden.",
-        "Sebe Suresi, 26",
-        "De ki: Rabbimiz aramızı hak ile açar (fettah). O, her şeyi bilendir.",
-        "Sebe, 26",
-        (
-            "Bediüzzaman Hazretleri, kilitlenmiş gibi duran hallerin ve kışın"
-            " ardından bahar kapılarının açılmasını Fettah isminin hikmetiyle"
-            " açıklar."
-        ),
-        "Lem'alar",
-    ),
-    (
-        20,
-        "El-Alim",
-        "العليم",
-        "Her şeyi en ince detayına kadar bilen, ilmi sınırsız olan.",
-        "Bakara Suresi, 32",
-        "Şüphesiz sen Alim'sin, Hakim'sin.",
-        "Bakara, 32",
-        (
-            "Bediüzzaman Hazretleri, atomdan yıldızlara kadar kâinattaki hiçbir"
-            " şeyin ilminin Allah'ın ilminden gizli kalamayacağını Alim ismiyle"
-            " delillendirir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        21,
-        "El-Kabid",
-        "القابض",
-        "Dilediğinin rızkını veya kalbini daraltan.",
-        "Bakara Suresi, 245",
-        "Allah sıkar (kabzeder) ve açar...",
-        "Bakara, 245",
-        (
-            "Bediüzzaman Hazretleri, insan ruhundaki kabz hallerinin,"
-            " kâinattaki mevsimsel daralmaların bu isimle idare edildiğini belirtir."
-        ),
-        "Mektubat",
-    ),
-    (
-        22,
-        "El-Basit",
-        "الباسط",
-        "Rızkı genişleten, kalplere ferahlık ve bolluk veren.",
-        "Bakara Suresi, 245",
-        "Allah sıkar ve genişletir (basit eder)...",
-        "Bakara, 245",
-        (
-            "Bediüzzaman Hazretleri, baharda yeryüzünün rahmetle genişletilmesini"
-            " Basit isminin tecellisi olarak açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        23,
-        "El-Hafid",
-        "الخافض",
-        "Kafirleri ve zalimleri alçaltan, gururluları zelil eden.",
-        "Vakıa Suresi, 3",
-        "O (kıyamet) alçaltıcıdır, yükselticidir.",
-        "Vakıa, 3",
-        (
-            "Bediüzzaman Hazretleri, kibirlenen firavunların ve zalimlerin"
-            " tarih boyunca nasıl alçaltıldığını Hafid ismiyle açıklar."
-        ),
-        "Şualar",
-    ),
-    (
-        24,
-        "El-Rafi",
-        "الرافع",
-        "Şeref veren, dereceleri yükselten, müminleri aziz kılan.",
-        "Vakıa Suresi, 3",
-        "...Alçaltıcı, yükselticidir.",
-        "Vakıa, 3",
-        (
-            "Bediüzzaman Hazretleri, iman ve ameliyle tevazu gösterenlerin"
-            " manevi olarak makamlarının yükseltilmesini Rafi ismiyle açıklar."
-        ),
-        "Şualar",
-    ),
-    (
-        25,
-        "El-Muiz",
-        "المعز",
-        "İstediğini aziz kılan, onurlandıran.",
-        "Ali İmran Suresi, 26",
-        "Dilediğini aziz kılarsın, dilediğini zelil edersin.",
-        "Ali İmran, 26",
-        (
-            "Bediüzzaman Hazretleri, hakikat ehlinin izzetini ve manevi"
-            " üstünlüğünü Muiz isminin tecellisiyle izah eder."
-        ),
-        "Mektubat",
-    ),
-    (
-        26,
-        "El-Muzil",
-        "المضل",
-        "Dilediğini hor ve hakir eden, zillet veren.",
-        "Ali İmran Suresi, 26",
-        "...Dilediğini zelil edersin.",
-        "Ali İmran, 26",
-        (
-            "Bediüzzaman Hazretleri, hakikate sırt çevirenlerin hak etikleri"
-            " zilleti Muzil ismi çerçevesinde bulduklarını belirtir."
-        ),
-        "Mektubat",
-    ),
-    (
-        27,
-        "El-Semi",
-        "السميع",
-        "Gizli açık her sesi, fısıltıyı en mükemmel işiten.",
-        "Şura Suresi, 11",
-        "O, her şeyi işiten ve görendir (Semi-i Basir).",
-        "Şura, 11",
-        (
-            "Bediüzzaman Hazretleri, milyarlarca mahlukun aynı anda yaptığı"
-            " duaları ve yalvarışları birbirine karıştırmadan işitmesini Semi"
-            " ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        28,
-        "El-Basir",
-        "البصير",
-        "Her şeyi en ince detayına kadar gören, hiçbir şey gizli kalmayan.",
-        "Hucurat Suresi, 18",
-        "Şüphesiz Allah göklerin ve yerin gaybını bilir. Allah yaptıklarınızı görendir.",
-        "Hucurat, 18",
-        (
-            "Bediüzzaman Hazretleri, karanlık gecede, denizin dibindeki karıncanın"
-            " hareketini dahi gören Basir isminin azametini misallerle anlatır."
-        ),
-        "20. Mektup",
-    ),
-    (
-        29,
-        "El-Hakem",
-        "الحكم",
-        "Mutlak hakim, hak ile batılı ayıran, adil hüküm veren.",
-        "Hac Suresi, 69",
-        "Kıyamet günü Allah aranızda hükmedecektir.",
-        "Hac, 69",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki tüm yasal ve fıtri hükümlerin"
-            " Hakem isminin adaletli kanunlarıyla yürütüldüğünü ifade eder."
-        ),
-        "Lem'alar",
-    ),
-    (
-        30,
-        "El-Adl",
-        "العدل",
-        "Mutlak adalet sahibi, zulmetmeyen.",
-        "En'am Suresi, 115",
-        "Rabbinin kelimesi doğruluk ve adaletle tamamlanmıştır.",
-        "En'am, 115",
-        (
-            "Bediüzzaman Hazretleri 30. Lem'a'da Adl ismini kâinattaki mizan"
-            " esasıyla açıklar: Hiçbir zerre zayi olmaz, en küçük zulüm mahkeme-i"
-            " kübrada karşılığını bulur."
-        ),
-        "30. Lem'a (İsm-i Adl)",
-    ),
-    (
-        31,
-        "El-Latif",
-        "اللطيف",
-        "Lütuf sahibi, en ince işlerin detaylarını bilen ve zarif ihsanlarda bulunan.",
-        "Mülk Suresi, 14",
-        "O latiftir, her şeyden haberdardır.",
-        "Mülk, 14",
-        (
-            "Bediüzzaman Hazretleri, en küçük hücrelerde ve tohumlarda"
-            " muazzam planların saklanmasını Latif isminin zarafetiyle açıklar."
-        ),
-        "30. Lem'a (İsm-i Latif)",
-    ),
-    (
-        32,
-        "El-Habir",
-        "الخبير",
-        "Her şeyin iç yüzünden, gizli hallerinden haberdar olan.",
-        "En'am Suresi, 18",
-        "O, hikmet sahibidir, her şeyden haberdardır (Habir).",
-        "En'am, 18",
-        (
-            "Bediüzzaman Hazretleri, atomların derinliklerindeki nizamı ve"
-            " kalplerin niyetlerini Habir isminin ihatasıyla açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        33,
-        "El-Halim",
-        "الحليم",
-        "Cezada acele etmeyen, kullarının kusurlarına karşı yumuşak davranan.",
-        "Bakara Suresi, 235",
-        "Biliniz ki Allah bağışlayıcıdır, halimdir.",
-        "Bakara, 235",
-        (
-            "Bediüzzaman Hazretleri, insanların en büyük nankörlüklerine karşı"
-            " bile rızıklarının kesilmemesini Halim isminin azametli"
-            " mühlet vermesiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        34,
-        "El-Azim",
-        "العظيم",
-        "Pek yüce, azamet sahibi, akılların idrak edemeyeceği büyüklükte.",
-        "Bakara Suresi, 255",
-        "O, yücedir, azimdir.",
-        "Bakara, 255",
-        (
-            "Bediüzzaman Hazretleri, kâinatın muazzam büyüklüğü karşısında"
-            " insanın idrakinin aciz kalmasını Azim isminin tecellisiyle"
-            " açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        35,
-        "El-Gafur",
-        "الغفور",
-        "Günahları çok bağışlayan, mağfireti bol olan.",
-        "Fatır Suresi, 28",
-        "Şüphesiz Allah azizdir, gafurdur.",
-        "Fatır, 28",
-        (
-            "Bediüzzaman Hazretleri, samimi tevbe edenlerin bütün geçmiş"
-            " günahlarının affedilmesini Gafur isminin geniş rahmetiyle"
-            " müjdeler."
-        ),
-        "Lem'alar",
-    ),
-    (
-        36,
-        "El-Şekur",
-        "الشكور",
-        "Az amele karşılık çok mükâfat veren, şükredenleri ödüllendiren.",
-        "Şura Suresi, 23",
-        "Şüphesiz O gafurdur, şekurdur.",
-        "Şura, 23",
-        (
-            "Bediüzzaman Hazretleri, kulların küçük şükürlerine karşılık"
-            " cennetler dolusu nimetler ihsan edilmesini Şekur ismiyle açıklar."
-        ),
-        "Sözler",
-    ),
-    (
-        37,
-        "El-Aliy",
-        "العلي",
-        "Pek yüce, her şeyden muktedir ve üstün olan.",
-        "Lokman Suresi, 30",
-        "Çünkü Allah yücedir, büyüktür.",
-        "Lokman, 30",
-        (
-            "Bediüzzaman Hazretleri, hiçbir şeyin O'na denk olamayacağını ve"
-            " her bakımından en üstün makamda olduğunu Aliy ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        38,
-        "El-Kebir",
-        "الكبير",
-        "Mutlak büyük, azamet sahibi.",
-        "Ra'd Suresi, 9",
-        "O, büyük ve yücedir.",
-        "Ra'd, 9",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki en büyük galaksilerin bile O'nun"
-            " kudreti karşısında bir zerre hükmünde olduğunu Kebir ismiyle"
-            " açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        39,
-        "El-Hafiz",
-        "الحفيظ",
-        "Her şeyi muhafaza eden, gözetleyen, fenalıklardan koruyan.",
-        "Hud Suresi, 57",
-        "Şüphesiz Rabbim her şeyi koruyandır.",
-        "Hud, 57",
-        (
-            "Bediüzzaman Hazretleri, tohumların toprak altında bozulmadan"
-            " saklanmasını ve kâinatın hafızasında her amelin kayda"
-            " geçirilmesini Hafiz ismiyle izah eder."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        40,
-        "El-Mukit",
-        "المقيت",
-        "Her türlü rızkı, azığı yaratan ve mahlukata ulaştıran.",
-        "Nisa Suresi, 85",
-        "Allah her şeye gücü yetendir (Mukit).",
-        "Nisa, 85",
-        (
-            "Bediüzzaman Hazretleri, bedenlerin ve ruhların gıdalarını eksiksiz"
-            " tayin edip ulaştıranın Mukit ismi olduğunu belirtir."
-        ),
-        "Mektubat",
-    ),
-    (
-        41,
-        "El-Hasib",
-        "الحسيب",
-        "Kulların hesabını en iyi gören, her şeye kâfi gelen.",
-        "Nisa Suresi, 6",
-        "Hesap görücü olarak Allah yeter.",
-        "Nisa, 6",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki milyarlarca varlığın hesabının"
-            " anlık olarak tutulmasını Hasib isminin azametiyle açıklar."
-        ),
-        "Şualar",
-    ),
-    (
-        42,
-        "El-Celil",
-        "الجليل",
-        "Celal ve azamet sahibi, büyük ve haşmetli.",
-        "Rahman Suresi, 27",
-        "Celal ve ikram sahibi Rabbinin adı yücedir.",
-        "Rahman, 27",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki yıldırımlar, dağlar ve haşmetli"
-            " afetler arkasındaki ilahi heybeti Celil ismiyle açıklar."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        43,
-        "El-Kerim",
-        "الكريم",
-        "Çok cömert, ikramı bol, sözünde duran, lütufkâr.",
-        "Neml Suresi, 40",
-        "Şüphesiz Rabbim zengindir, kerimdir.",
-        "Neml, 40",
-        (
-            "Bediüzzaman Hazretleri, kullarına istemeden sonsuz ikramlarda"
-            " bulunan ilahi cömertliği Kerim ismiyle izah eder."
-        ),
-        "20. Mektup",
-    ),
-    (
-        44,
-        "El-Rakib",
-        "الرقيب",
-        "Her varlığı, her ameli an be an gözetim altında tutan.",
-        "Nisa Suresi, 1",
-        "Şüphesiz Allah üzerinizde bir gözetleyicidir (Rakib).",
-        "Nisa, 1",
-        (
-            "Bediüzzaman Hazretleri, insanın kalbinden geçenleri dahi an be an"
-            " denetleyen ilahi nezareti Rakib ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        45,
-        "El-Mucib",
-        "المجيب",
-        "Dualara icabet eden, istekleri geri çevirmeyen.",
-        "Hud Suresi, 61",
-        "Şüphesiz Rabbim yakındır, dualara icabet edendir.",
-        "Hud, 61",
-        (
-            "Bediüzzaman Hazretleri, en aciz anında mahlukatın yaptığı"
-            " yakarışlara cevap veren ilahi merhameti Mucib ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        46,
-        "El-Vasi",
-        "الواسع",
-        "İlmi, rahmeti, kudreti her şeyi kuşatan, geniş.",
-        "Bakara Suresi, 268",
-        "Allah lütfu bol olan, her şeyi bilendir (Vasi).",
-        "Bakara, 268",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki hiçbir ihtiyacın ilahi rahmete"
-            " dar gelmemesini Vasi ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        47,
-        "El-Hakim",
-        "الحكيم",
-        "Sonsuz hikmet sahibi.",
-        "En'am Suresi, 18",
-        "O hakimdir, habirdir.",
-        "En'am, 18",
-        (
-            "Bediüzzaman Hazretleri 30. Lem'a'da Hakim ismini kâinattaki hiçbir"
-            " şeyin abes yaratılmadığı hakikatiyle genişçe işler."
-        ),
-        "30. Lem'a (İsm-i Hakim)",
-    ),
-    (
-        48,
-        "El-Vedud",
-        "الودود",
-        "Kullarını çok seven, sevilmeye en layık olan.",
-        "Hud Suresi, 90",
-        "Şüphesiz Rabbim çok merhametlidir, çok sevendir (Vedud).",
-        "Hud, 90",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki bütün şefkat ve muhabbet"
-            " duygularının Vedud isminin tecellisinden birer damla olduğunu"
-            " açıklar."
-        ),
-        "30. Lem'a (İsm-i Vedud)",
-    ),
-    (
-        49,
-        "El-Mecid",
-        "المجيد",
-        "Şanı yüce, şerefi ve kadrü kıymeti en büyük olan.",
-        "Hud Suresi, 73",
-        "Şüphesiz O övülmüştür, şanı yücedir (Mecid).",
-        "Hud, 73",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki muazzam ihtişamın ve övgüye"
-            " layık eserlerin Mecid isminin şerefini yansıttığını belirtir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        50,
-        "El-Bais",
-        "الباعث",
-        "Ölüleri dirilten, kabirlerden çıkaran, peygamber gönderen.",
-        "Hac Suresi, 7",
-        "Şüphesiz Allah kabirdekileri diriltecektir.",
-        "Hac, 7",
-        (
-            "Bediüzzaman Hazretleri, baharda milyarlarca bitkinin haşrini"
-            " yapan kudretin insanı da ahirette dirilteceğini Bais ismiyle"
-            " ispat eder."
-        ),
-        "10. Söz (Haşir Risalesi)",
-    ),
-    (
-        51,
-        "El-Sehid",
-        "الشهيد",
-        "Her yerde hazır ve nazır olan, her şeye şahitlik eden.",
-        "Mucadele Suresi, 6",
-        "Şüphesiz Allah her şeye şahittir.",
-        "Mucadele, 6",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki her anın ve amelin şahidi olan"
-            " ilahi adaleti Sehid ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        52,
-        "El-Hakk",
-        "الحق",
-        "Varlığı hak olan, gerçeğin kendisi, hükmü kesin olan.",
-        "Hac Suresi, 6",
-        "Çünkü Allah Hak'tır ve ölüleri diriltir.",
-        "Hac, 6",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki tüm hakikatlerin ve gayelerin"
-            " Hak ismine dayandığını belirtir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        53,
-        "El-Vekil",
-        "الوكيل",
-        "Kendisine güvenilip dayanılan, işleri en güzel idare eden.",
-        "Ali İmran Suresi, 173",
-        "Allah bize yeter, O ne güzel vekildir.",
-        "Ali İmran, 173",
-        (
-            "Bediüzzaman Hazretleri, kulların bütün işlerinde O'na tevekkül"
-            " etmelerinin gereğini Vekil isminin emniyetiyle açıklar."
-        ),
-        "23. Söz",
-    ),
-    (
-        54,
-        "El-Kavi",
-        "القوي",
-        "Sınırsız güç ve kudret sahibi, hiç düşmeyen.",
-        "Hac Suresi, 74",
-        "Şüphesiz Allah kuvvetlidir, azizdir.",
-        "Hac, 74",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki en ağır yükleri bile kolayca"
-            " çeviren mutlak kuvveti Kavi ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        55,
-        "El-Metin",
-        "المتين",
-        "Çok sağlam, kudretinde asla sarsıntı olmayan.",
-        "Zariyat Suresi, 58",
-        "Şüphesiz rızık veren, metin kudret sahibi olan Allah'tır.",
-        "Zariyat, 58",
-        (
-            "Bediüzzaman Hazretleri, göklerin direksiz durmasını ve kâinat"
-            " nizamının sarsılmamasını Metin ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        56,
-        "El-Veli",
-        "الولي",
-        "İnananların dostu, yardımcısı ve koruyucusu.",
-        "Bakara Suresi, 257",
-        "Allah iman edenlerin dostudur (velisidir)...",
-        "Bakara, 257",
-        (
-            "Bediüzzaman Hazretleri, müminlerin zor anlarında imdatlarına"
-            " yetişen ilahi yakınlığı Veli ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        57,
-        "El-Hamid",
-        "الحميد",
-        "Bütün övgülere ve şükürlere layık olan.",
-        "İbrahim Suresi, 1",
-        "Aziz ve Hamid olan Allah'ın yoluna...",
-        "İbrahim, 1",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki bütün dillerin ve mahlukatın"
-            " kendi halleriyle O'nu övmesini Hamid ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        58,
-        "El-Muhsi",
-        "المحصي",
-        "Her şeyin sayısını, miktarını eksiksiz bilen.",
-        "Meryem Suresi, 94",
-        "Andolsun ki onları kuşatmış ve teker teker saymıştır (muhsi).",
-        "Meryem, 94",
-        (
-            "Bediüzzaman Hazretleri, yağmur damlalarından yapraklara kadar"
-            " hiçbir şeyin ilahi hesaptan kaçamayacağını Muhsi ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        59,
-        "El-Mübdil",
-        "المبديء",
-        "Varlıkları ilk defa örneksiz yaratan.",
-        "Buruc Suresi, 13",
-        "Şüphesiz O, başlangıcı yapar ve yeniden diriltir (mübdil ve muid).",
-        "Buruc, 13",
-        (
-            "Bediüzzaman Hazretleri, kainatın ilk yaratılışındaki harikaları"
-            " Mübdil ismiyle izah eder."
-        ),
-        "10. Söz",
-    ),
-    (
-        60,
-        "El-Muid",
-        "المعيد",
-        "Yarattıktan sonra öldürüp yeniden diriltecek olan.",
-        "Rum Suresi, 27",
-        "Yaratmayı ilkin yapan, sonra onu tekrarlayan (muid) O'dur.",
-        "Rum, 27",
-        (
-            "Bediüzzaman Hazretleri, ahiretteki yeniden dirilişin ilk yaratılış"
-            " kadar kolay olduğunu Muid ismiyle ispat eder."
-        ),
-        "10. Söz",
-    ),
-    (
-        61,
-        "El-Muhyi",
-        "المحيي",
-        "Hayat veren, dirilten.",
-        "Fussilet Suresi, 39",
-        "Şüphesiz O ölüleri diriltkendir (muhyidir).",
-        "Fussilet, 39",
-        (
-            "Bediüzzaman Hazretleri, ölmüş toprakların baharda binbir çeşit"
-            " hayatla donatılmasını Muhyi ismiyle açıklar."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        62,
-        "El-Mumit",
-        "المميت",
-        "Canlıların ölümünü yaratan, hayatı sonlandıran.",
-        "Ali İmran Suresi, 156",
-        "Yaratan ve öldüren O'dur.",
-        "Ali İmran, 156",
-        (
-            "Bediüzzaman Hazretleri, ölümün yok olmak değil, vazife"
-            " değiştirme ve terhis olduğunu Mumit ismiyle açıklar."
-        ),
-        "10. Söz",
-    ),
-    (
-        63,
-        "El-Hayy",
-        "الحي",
-        "Ebedi diri olan hayat kaynağı.",
-        "Mümin Suresi, 65",
-        "O, ölümsüz ve daima diri olandır...",
-        "Mümin, 65",
-        (
-            "Bediüzzaman Hazretleri 30. Lem'a'da Hayy ismini kâinattaki daimi"
-            " hayat dalgalanmaları ve bahar dirilişleriyle detaylıca işler."
-        ),
-        "30. Lem'a (İsm-i Hayy)",
-    ),
-    (
-        64,
-        "El-Kayyum",
-        "القيوم",
-        "Kâinatı ayakta tutan ve idare eden.",
-        "Bakara Suresi, 255",
-        "O Hayy'dır, Kayyum'dur.",
-        "Bakara, 255",
-        (
-            "Bediüzzaman Hazretleri 30. Lem'a'da Kayyum ismini kâinatın her an"
-            " kudretle ayakta tutulması esasıyla izah eder."
-        ),
-        "30. Lem'a (İsm-i Kayyum)",
-    ),
-    (
-        65,
-        "El-Vacid",
-        "الواجد",
-        "Hiçbir şeyi kaybetmeyen, aradığını dilediği an bulan.",
-        "Duha Suresi, 7-8",
-        "Seni kaybolmuş bulup da yönlendirmedi mi?",
-        "Duha, 7",
-        (
-            "Bediüzzaman Hazretleri, kainatta hiçbir zerrenin kaybolmadığını"
-            " Vacid ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        66,
-        "El-Macid",
-        "الماجد",
-        "Şanı yüce, kerem ve cömertliği sonsuz.",
-        "Hud Suresi, 73",
-        "Şüphesiz O övülmüştür, maciddir.",
-        "Hud, 73",
-        (
-            "Bediüzzaman Hazretleri, ilahi ihsanların yüceliğini Macid ismiyle"
-            " vurgular."
-        ),
-        "20. Mektup",
-    ),
-    (
-        67,
-        "El-Vahid",
-        "الواحد",
-        "Zatında, sıfatlarında ortağı ve benzeri olmayan tek.",
-        "İhlas Suresi, 1",
-        "De ki: O Allah tektir (vahid/ahad).",
-        "İhlas, 1",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki birliğin tek bir Vahid'in"
-            " eserinden başka olamayacağını ispat eder."
-        ),
-        "33. Söz",
-    ),
-    (
-        68,
-        "El-Ahad",
-        "الأحد",
-        "Tek ve eşsiz olan.",
-        "İhlas Suresi, 1",
-        "De ki: Allah ahad'dır.",
-        "İhlas, 1",
-        (
-            "Bediüzzaman Hazretleri, her şeyin mutlak birliğe işaret ettiğini"
-            " Ahad ismiyle açıklar."
-        ),
-        "33. Söz",
-    ),
-    (
-        69,
-        "El-Samed",
-        "الصمد",
-        "Her şeyin kendisine muhtaç olduğu, kendisi hiçbir şeye muhtaç olmayan.",
-        "İhlas Suresi, 2",
-        "Allah sameddir.",
-        "İhlas, 2",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki bütün varlıkların ihtiyaç"
-            " anında yalvardığı merciin Samed olduğunu muazzam bir tefsirle"
-            " anlatır."
-        ),
-        "Sözler (İhlas Risalesi)",
-    ),
-    (
-        70,
-        "El-Kadir",
-        "القادر",
-        "Her şeye gücü yeten, dilediğini yaratan.",
-        "En'am Suresi, 65",
-        "De ki: O, başınıza üstünüzden bir azap göndermeye kadirdir.",
-        "En'am, 65",
-        (
-            "Bediüzzaman Hazretleri, baharı yaratmakla bir sineği yaratmak"
-            " O'nun kudretinde birdir hakikatini Kadir ismiyle izah eder."
-        ),
-        "20. Mektup",
-    ),
-    (
-        71,
-        "El-Muktedir",
-        "المقتدر",
-        "Mutlak kudret sahibi, her şeye gücü yeten.",
-        "Kamer Suresi, 42",
-        "Mutlak kudret sahibi bir melikin katında (muktedir).",
-        "Kamer, 42",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki devasa galaksileri kolayca"
-            " döndüren kudreti Muktedir ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        72,
-        "El-Mukaddim",
-        "المقدم",
-        "Dilediğini öne geçiren, yükselten.",
-        "Kaf Suresi, 28",
-        "Huzurumda çekişmeyin, ben size daha önce uyarı göndermiştim.",
-        "Kaf, 28",
-        (
-            "Bediüzzaman Hazretleri, tarih sahnesinde bazı milletleri ve"
-            " şahsiyetleri öne geçiren hikmeti Mukaddim ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        73,
-        "El-Muahhir",
-        "المؤخر",
-        "Dilediğini arkaya bırakan, geciktiren.",
-        "Nuh Suresi, 4",
-        "Sizin ecelinizi belirlenmiş bir süreye kadar erteler (muahhir).",
-        "Nuh, 4",
-        (
-            "Bediüzzaman Hazretleri, ilahi hikmet gereği bazı işlerin ve"
-            " cezaların ertelenmesini Muahhir ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        74,
-        "El-Evvel",
-        "الأول",
-        "Varlığının başlangıcı olmayan, ezeli.",
-        "Hadid Suresi, 3",
-        "O Evvel'dir, Ahir'dir, Zahir'dir, Batin'dir.",
-        "Hadid, 3",
-        (
-            "Bediüzzaman Hazretleri, kâinatın ve zamanın başlangıcından önce"
-            " de var olan ezeli Hakikat'i Evvel ismiyle açıklar."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        75,
-        "El-Ahir",
-        "الآخر",
-        "Varlığının sonu olmayan, ebedi.",
-        "Hadid Suresi, 3",
-        "O Evvel'dir, Ahir'dir...",
-        "Hadid, 3",
-        (
-            "Bediüzzaman Hazretleri, bütün mahlukat yok olduktan sonra baki"
-            " kalan tek Zat'ın Ahir ismi olduğunu belirtir."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        76,
-        "El-Zahir",
-        "الظاهر",
-        "Varlığı delilleriyle apaçık ortadan görünen.",
-        "Hadid Suresi, 3",
-        "O Zahir'dir ve Batin'dir.",
-        "Hadid, 3",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki her bir eser ve nizamın açık"
-            " birer imza gibi Yaratıcı'yı göstermesini Zahir ismiyle açıklar."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        77,
-        "El-Batin",
-        "الباطن",
-        "Zatının mahiyeti gizli olan, gözlerle idrak edilemeyen.",
-        "Hadid Suresi, 3",
-        "O Zahir'dir ve Batin'dir.",
-        "Hadid, 3",
-        (
-            "Bediüzzaman Hazretleri, akılların Zat'ının hakikatini kavramaktan"
-            " aciz kalmasını Batin ismiyle izah eder."
-        ),
-        "30. Lem'a",
-    ),
-    (
-        78,
-        "El-Vali",
-        "الوالي",
-        "Kâinatı ve bütün işleri tek başına yöneten.",
-        "Ra'd Suresi, 11",
-        "İnsanı önünden ve arkasından takip eden melekler vardır...",
-        "Ra'd, 11",
-        (
-            "Bediüzzaman Hazretleri, kâinat sarayındaki bütün işlerin bir tek"
-            " Vali tarafından idare edildiğini belirtir."
-        ),
-        "Mektubat",
-    ),
-    (
-        79,
-        "El-Müteali",
-        "المتعالي",
-        "Akla gelebilecek her türlü zihni tasavvurdan yüce ve münezzeh.",
-        "Ra'd Suresi, 9",
-        "Büyük ve yüce olan (müteali) Allah'ın şanı yücedir.",
-        "Ra'd, 9",
-        (
-            "Bediüzzaman Hazretleri, ilahi azametin insan düşüncesinin çok"
-            " ötesinde olduğunu Müteali ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        80,
-        "El-Berr",
-        "البّر",
-        "İyilik ve ihsanı bol olan, kullarına kolaylık veren.",
-        "Tur Suresi, 28",
-        "Şüphesiz biz daha önce O'na yalvardık. O gerçekten iyilik edendir (berr).",
-        "Tur, 28",
-        (
-            "Bediüzzaman Hazretleri, kullarına sürekli iyilik ve rahmet"
-            " ulaştıran ilahi şefkati Berr ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        81,
-        "El-Tevvab",
-        "التواب",
-        "Tevbeleri kabul eden, günahları bağışlayan.",
-        "Bakara Suresi, 37",
-        "Şüphesiz O tevbeyi çok kabul eden, merhamet edendir.",
-        "Bakara, 37",
-        (
-            "Bediüzzaman Hazretleri, kullarının pişmanlıklarını kabul edip"
-            " onları tertemiz kılan ilahi merhameti Tevvab ismiyle müjdeler."
-        ),
-        "Lem'alar",
-    ),
-    (
-        82,
-        "El-Muntekim",
-        "المنتقم",
-        "Zalimlerin ve suçluların hak ettikleri cezayı veren.",
-        "Secde Suresi, 22",
-        "Şüphesiz biz suçlulardan intikam alıcıyız.",
-        "Secde, 22",
-        (
-            "Bediüzzaman Hazretleri, ilahi adaletin tecellisi olarak zalimlerin"
-            " cezasız kalmadığını Muntekim ismiyle açıklar."
-        ),
-        "Şualar",
-    ),
-    (
-        83,
-        "El-Afüvv",
-        "العفو",
-        "Günahları affeden, bağışlayan, suçları silen.",
-        "Hac Suresi, 60",
-        "Şüphesiz Allah çok affedicidir, bağışlayıcıdır.",
-        "Hac, 60",
-        (
-            "Bediüzzaman Hazretleri, kulların affedilme ümidini canlı tutan"
-            " Afüvv isminin kuşatıcı rahmetini açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        84,
-        "El-Rauf",
-        "الرؤوف",
-        "Çok şefkatli, merhamet sahibi, yumuşak kalpli.",
-        "Nur Suresi, 20",
-        "Şüphesiz Allah şefkatlidir, merhametlidir.",
-        "Nur, 20",
-        (
-            "Bediüzzaman Hazretleri, kullarına bir anne şefkatinden kat kat"
-            " ziyade merhamet eden ilahi şefkati Rauf ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        85,
-        "Malikü'l-Mülk",
-        "مالك الملك",
-        "Mülkün ebedi ve hakiki sahibi.",
-        "Ali İmran Suresi, 26",
-        "De ki: Ey mülkün sahibi olan Allah'ım!",
-        "Ali İmran, 26",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki hiçbir varlığın hakiki malik"
-            " olamayacağını, mülkün tek sahibinin Malikü'l-Mülk olduğunu"
-            " açıklar."
-        ),
-        "11. Söz",
-    ),
-    (
-        86,
-        "Zü'l-Celâli ve'l-İkrâm",
-        "ذو الجلال والإكرام",
-        "Celal (azamet) ve ikram (cömertlik) sahibi.",
-        "Rahman Suresi, 27",
-        "Celal ve ikram sahibi Rabbinin adı yücedir.",
-        "Rahman, 27",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki haşmet ile lütfun birleştiği"
-            " noktada bu ismin tecelli ettiğini belirtir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        87,
-        "El-Muksit",
-        "المقسط",
-        "Bütün işlerini adaletle, denge ve uyum içinde yapan.",
-        "Ali İmran Suresi, 18",
-        "Adaletle ayakta duran Allah...",
-        "Ali İmran, 18",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki kusursuz dengeyi Muksit ismiyle"
-            " izah eder."
-        ),
-        "Mektubat",
-    ),
-    (
-        88,
-        "El-Cami",
-        "الجامع",
-        "İstediğini istediği yerde toplayan, haşir gününde mahlukatı bir araya getiren.",
-        "Ali İmran Suresi, 9",
-        "Şüphesiz Allah insanları gelmesinde şüphe olmayan günde toplayacaktır.",
-        "Ali İmran, 9",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki dağınık unsurların baharda"
-            " yeniden derlenmesini ve ahiretteki haşri Cami ismiyle açıklar."
-        ),
-        "10. Söz",
-    ),
-    (
-        89,
-        "El-Gani",
-        "الغني",
-        "Zengin, hiçbir şeye ihtiyacı olmayan, her şey O'na muhtaç.",
-        "Fatır Suresi, 15",
-        "Ey insanlar, siz Allah'a muhtaçsınız; Allah ise Gani'dir.",
-        "Fatır, 15",
-        (
-            "Bediüzzaman Hazretleri, hiçbir şeye el uzatmayan ama her şeye yeten"
-            " mutlak zenginliği Gani ismiyle açıklar."
-        ),
-        "20. Mektup",
-    ),
-    (
-        90,
-        "El-Mugni",
-        "المغني",
-        "Dilediğini zengin eden, ihtiyaç gideren.",
-        "Tevbe Suresi, 28",
-        "Eğer fakirlik korkarsanız, Allah dilerse sizi lütfuyla zengin eder.",
-        "Tevbe, 28",
-        (
-            "Bediüzzaman Hazretleri, kullarının rızık ve ihtiyaçlarını vererek"
-            " onları hoşnut kılan ilahi inayeti Mugni ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        91,
-        "El-Mani",
-        "المانع",
-        "Dilediği şeyin gerçekleşmesine engel olan, zararları savan.",
-        "En'am Suresi, 17",
-        "Eğer Allah sana bir zarar dokundurursa, O'ndan başka onu giderecek yoktur.",
-        "En'am, 17",
-        (
-            "Bediüzzaman Hazretleri, kötü niyetlerin ve afetlerin ilahi"
-            " izinle engellenmesini Mani ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        92,
-        "El-Darr",
-        "الضار",
-        "Hikmeti gereği elem ve zarar yaratan.",
-        "En'am Suresi, 17",
-        "Eğer Allah sana bir zarar verirse...",
-        "En'am, 17",
-        (
-            "Bediüzzaman Hazretleri, imtihan gereği başa gelen musibetlerin ve"
-            " zararlı gibi görünen unsurların arkasındaki ilahi hikmetleri"
-            " açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        93,
-        "El-Nafi",
-        "النافع",
-        "Fayda ve menfaat yaratan, hayır ihsan eden.",
-        "Furkan Suresi, 3",
-        "Onlar kendilerine ne bir zarar ne de bir fayda verebilirler.",
-        "Furkan, 3",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki bütün menfaatlerin ve tatlı"
-            " nimetlerin Nafi isminden kaynaklandığını belirtir."
-        ),
-        "20. Mektup",
-    ),
-    (
-        94,
-        "El-Nur",
-        "النور",
-        "Kâinatı aydınlatan, kalpleri ve ruhları nurlandıran.",
-        "Nur Suresi, 35",
-        "Allah göklerin ve yerin nurudur.",
-        "Nur, 35",
-        (
-            "Bediüzzaman Hazretleri, hem maddi kainatın güneşlerle"
-            " aydınlatılmasını hem de kalplerin iman nuruyla tenvir edilmesini"
-            " Nur ismiyle açıklar."
-        ),
-        "30. Lem'a (Nur Risalesi)",
-    ),
-    (
-        95,
-        "El-Hadi",
-        "الهادي",
-        "Hidayet veren, doğru yolu gösteren.",
-        "Hac Suresi, 54",
-        "Şüphesiz Allah iman edenleri doğru yola iletendir.",
-        "Hac, 54",
-        (
-            "Bediüzzaman Hazretleri, kalplere hidayet tohumları eken ve"
-            " aklıselimi yönlendiren ilahi inayetleri Hadi ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        96,
-        "El-Bedi",
-        "البديع",
-        "Örneksiz, benzersiz, mucizevi güzellikte yaratan.",
-        "Bakara Suresi, 117",
-        "Gökleri ve yeri örneksiz yaratandır (bedidir).",
-        "Bakara, 117",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki her an yeniden yaratılan"
-            " harika sanat eserlerini Bedi ismiyle izah eder."
-        ),
-        "20. Mektup",
-    ),
-    (
-        97,
-        "El-Baki",
-        "الباقي",
-        "Varlığının sonu olmayan, ebedi.",
-        "Rahman Suresi, 27",
-        "Ancak celal ve ikram sahibi Rabbin zatı baki kalacaktır.",
-        "Rahman, 27",
-        (
-            "Bediüzzaman Hazretleri 'Baki kalmak ister misiniz? Baki bir Zat'a"
-            " bağlanın' düsturuyla fani dünyanın arkasındaki Baki hakikatini"
-            " açıklar."
-        ),
-        "3. Söz",
-    ),
-    (
-        98,
-        "El-Varis",
-        "الوارث",
-        "Bütün mahlukatın hakiki sahibi ve varisi olan, baki kalan.",
-        "Hicr Suresi, 23",
-        "Şüphesiz biz diriltiriz ve öldürürüz; varis olanlar biziz.",
-        "Hicr, 23",
-        (
-            "Bediüzzaman Hazretleri, fani sahiplerin ardından mülkün gerçek"
-            " sahibinde kalacağını Varis ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-    (
-        99,
-        "El-Reşid",
-        "الرشيد",
-        "Bütün işleri en doğru neticeye ulaştıran, irşat eden.",
-        "Hud Suresi, 87",
-        "Şüphesiz sen halim ve reşidsin.",
-        "Hud, 87",
-        (
-            "Bediüzzaman Hazretleri, kâinattaki tüm sevk ve idarelerin en"
-            " hikmetli ve doğru sonuca ulaştırılmasını Reşid ismiyle açıklar."
-        ),
-        "Mektubat",
-    ),
-]
-
-# Kalan esmaları listeye ekleyelim (Düzeltilmiş ayet metinleriyle)
-for item in kalan_esmalar:
-    esma_veritabani.append({
-        "id": item[0],
-        "isim": item[1],
-        "arapca": item[2],
-        "anlamı": item[3],
-        "anlam_kaynagi": "Kur'an-ı Kerim, Lügat ve Tefsir Kaynakları",
-        "ayet": item[5],  # Artık yer tutucu yerine doğrudan tam ayet metni işlendi
-        "ayet_sure": item[4],
+    {
+        "id": 11,
+        "isim": "El-Mütekebbir",
+        "arapca": "المتكبر",
+        "anlamı": "Büyüklük ve azamette eşi olmayan, her şeyde büyüklüğünü gösteren.",
+        "anlam_kaynagi": "Lisanü'l-Arab",
+        "ayet": "O, kendisinden başka ilah olmayan Allah'tır; Melik'tir, Kuddus'tür, Selam'dır...",
+        "ayet_sure": "Haşr Suresi, 23. Ayet",
         "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
-        "hadis": f"'{item[1]} ismi ile dua edenlerin duası makbuldür.'",
-        "hadis_kaynagi": item[6],
-        "risale_ornek": item[7],
-        "risale_kaynak": f"Risale-i Nur Külliyatı ({item[8]})",
-    })
+        "hadis": "'Kibriya (büyüklük) benim ridasımdır, kim onunla benimle yarışmaya kalkarsa onu sırtüstü cehenneme atarım.'",
+        "hadis_kaynagi": "Ebu Davud, Libas, 3; İbn Mace, Zühd, 16",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki haşmetli eserlerin ve dağlar gibi azametli mahlukatın tek sahibinin büyüklüğünü ispat ettiğini belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 12,
+        "isim": "El-Halık",
+        "arapca": "الخالق",
+        "anlamı": "Yoktan var eden, ölçüye göre yaratan ve şekil veren.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "O, yaratan, yoktan var eden, şekil veren Allah'tır.",
+        "ayet_sure": "Haşr Suresi, 24. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah mahlukatı yarattığı zaman, kendi katındaki Arş'ın üzerinde yazılı olan şu sözü yazdı: Şüphesiz rahmetim gazabımı geçmiştir.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 15",
+        "risale_ornek": "Bediüzzaman Hazretleri, her bir zerrede ve canlıda hiçbir örnek olmaksızın yapılan mucizevi yaratılışı Halık isminin daimi tecellisiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 33. Söz",
+    },
+    {
+        "id": 13,
+        "isim": "El-Bari",
+        "arapca": "الباري",
+        "anlamı": "Örneksiz ve kusursuz olarak uyumlu yaratan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "O, Halık'tır, Bari'dir, Musavvir'dir...",
+        "ayet_sure": "Haşr Suresi, 24. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) gece kalktığında Tefekkür ve Teheccüt dualarında 'Allahümme Rabbe Cebraile ve Mikaile ve İsrafile, Fatires-semavati ve'l-ardı...' diye dua ederdi.",
+        "hadis_kaynagi": "Sahih-i Müslim, Salatü'l-Müsafirin, 200",
+        "risale_ornek": "Bediüzzaman Hazretleri, uzuvların birbiriyle olan mükemmel ahenk ve dengesini Bari isminin kusursuz icraatıyla açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 14,
+        "isim": "El-Musavvir",
+        "arapca": "المصور",
+        "anlamı": "Varlıklara en güzel biçimini ve ayırt edici suretini veren.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Rahim olan Allah sizi rahimlerde dilediği gibi şekillendirir.",
+        "ayet_sure": "Ali İmran Suresi, 6. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah insanı kendi suretinde (onurlandırarak) yaratmıştır.'",
+        "hadis_kaynagi": "Sahih-i Buhari, İtisam, 1; Müslim, Birr, 115",
+        "risale_ornek": "Bediüzzaman Hazretleri, yeryüzündeki milyarlarca insan yüzünün aynı malzemeden yapılmasına rağmen birbirinden tamamen farklı ve tanınabilir olmasını Musavvir isminin mucizesi olarak vurgular.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 15,
+        "isim": "El-Gaffar",
+        "arapca": "الغفار",
+        "anlamı": "Günahları örten, mağfireti ve bağışlaması çok olan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Şüphesiz ben, tevbe eden, iman edip salih amel işleyen, sonra da doğru yola giren kimse için Gaffar'ım.",
+        "ayet_sure": "Taha Suresi, 82. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ey ademoğlu! Sen bana dua ettiğin ve benden bağışlanma dilediğin sürece, işlediğin günahlar ne kadar çok olursa olsun onları affederim ve buna aldırmam.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 98",
+        "risale_ornek": "Bediüzzaman Hazretleri, kulların kusurlarını ve çirkinliklerini gece örtüsü gibi örten ve affeden ilahi merhameti Gaffar ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 16,
+        "isim": "El-Kahhar",
+        "arapca": "القهار",
+        "anlamı": "Her şeyi mutlak egemenliği altında tutan, isyankar ve zalimleri kahreden.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "O, her şey üzerinde mutlak hakim olan Kahhar'dır.",
+        "ayet_sure": "Ra'd Suresi, 16. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) gece namazlarında 'La ilahe illallahü'l-vahidü'l-kahhar, rabbü's-semavati ve'l-ardı ve ma beynehüma...' diyerek dua ederdi.",
+        "hadis_kaynagi": "Nesai, Amalü'l-Yevm ve'l-Leyle, 854",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki nizama karşı gelen ve fesat çıkaran unsurların Kahhar isminin celaliyle tesirsiz hale getirildiğini açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar",
+    },
+    {
+        "id": 17,
+        "isim": "El-Vehhab",
+        "arapca": "الوهاب",
+        "anlamı": "Karşılıksız bol bol ihsan eden, lütuf ve inayet sahibi.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Yoksa aziz ve vehhab olan Rabbinin hazineleri onların yanında mı?",
+        "ayet_sure": "Sad Suresi, 9. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Ebubekir'in rivayet ettiği duada Resulullah (s.a.v.) 'Allahümme inni zalemtü nefsi zulmen kesiran...' derken Vehhab ismini sena etmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Deavat, 17",
+        "risale_ornek": "Bediüzzaman Hazretleri, mahlukata hiçbir bedel istemeden sunulan nefes, su, ışık ve hayat gibi muazzam nimetleri Vehhab isminin cömertliğiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 18,
+        "isim": "El-Rezzak",
+        "arapca": "الرزاق",
+        "anlamı": "Bütün mahlukatın rızkını veren ve ihtiyaçlarını karşılayan.",
+        "anlam_kaynagi": "Lisanü'l-Arab",
+        "ayet": "Şüphesiz rızık veren, mutlak kudret sahibi olan Allah'tır.",
+        "ayet_sure": "Zariyat Suresi, 58. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Eğer siz Allah'a hakkıyla tevekkül etseydiniz, kuşların rızıklandırıldığı gibi siz de rızıklandırılırdınız; sabah aç karnına çıkıp akşam tok dönerler.'",
+        "hadis_kaynagi": "Tirmizi, Zühd, 33; İbn Mace, Zühd, 14",
+        "risale_ornek": "Bediüzzaman Hazretleri, dilsiz hayvanlardan derin denizlerdeki balıklara kadar en zayıf mahlukatın bile unutmaksızın rızkının verilmesini Rezzak isminin azametli mucizesi olarak gösterir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Sözler (10. Söz)",
+    },
+    {
+        "id": 19,
+        "isim": "El-Fettah",
+        "arapca": "الفتاح",
+        "anlamı": "Her türlü güçlüğü kolaylaştıran, rahmet kapılarını açan ve hükmeden.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "De ki: Rabbimiz aramızı hak ile açar (fettah). O, her şeyi bilendir.",
+        "ayet_sure": "Sebe Suresi, 26. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) mescide girerken 'Allahümme feteh li ebvabe rahmetike' diyerek Fettah isminin rahmet kapılarını aralamıştır.",
+        "hadis_kaynagi": "Sahih-i Müslim, Salatü'l-Müsafirin, 71",
+        "risale_ornek": "Bediüzzaman Hazretleri, kilitlenmiş gibi duran hallerin ve kışın ardından bahar kapılarının açılmasını Fettah isminin hikmetiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar",
+    },
+    {
+        "id": 20,
+        "isim": "El-Alim",
+        "arapca": "العليم",
+        "anlamı": "Her şeyi en ince detayına kadar bilen, ilmi sınırsız olan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz sen Alim'sin, Hakim'sin.",
+        "ayet_sure": "Bakara Suresi, 32. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah'ım! Gaybı bilmenle ve mahlukat üzerindeki kudretinle beni yaşat...'",
+        "hadis_kaynagi": "Nesai, Sehiv, 62",
+        "risale_ornek": "Bediüzzaman Hazretleri, atomdan yıldızlara kadar kâinattaki hiçbir şeyin ilminin Allah'ın ilminden gizli kalamayacağını Alim ismiyle delillendirir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 21,
+        "isim": "El-Kabid",
+        "arapca": "القابض",
+        "anlamı": "Dilediğinin rızkını veya kalbini daraltan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Allah sıkar (kabzeder) ve açar...",
+        "ayet_sure": "Bakara Suresi, 245. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Şüphesiz Allah tevbe edenin tevbesini kabul etmek için gece eliyle (rahmetiyle) gündüz günah işleyenin tevbesini kabul etmek için gündüz elini uzatır.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Tevbe, 31",
+        "risale_ornek": "Bediüzzaman Hazretleri, insan ruhundaki kabz hallerinin, kâinattaki mevsimsel daralmaların bu isimle idare edildiğini belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 22,
+        "isim": "El-Basit",
+        "arapca": "الباسط",
+        "anlamı": "Rızkı genişleten, kalplere ferahlık ve bolluk veren.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Allah sıkar ve genişletir (basit eder)...",
+        "ayet_sure": "Bakara Suresi, 245. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kim rızkının genişletilmesini veya ömrünün uzatılmasını arzu ederse, akrabalık haklarını gözetsin.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Büyü, 12; Müslim, Birr, 20-21",
+        "risale_ornek": "Bediüzzaman Hazretleri, baharda yeryüzünün rahmetle genişletilmesini Basit isminin tecellisi olarak açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 23,
+        "isim": "El-Hafid",
+        "arapca": "الخافض",
+        "anlamı": "Kafirleri ve zalimleri alçaltan, gururluları zelil eden.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "O (kıyamet) alçaltıcıdır, yükselticidir.",
+        "ayet_sure": "Vakıa Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kim Allah için tevazu gösterirse, Allah onu yükseltir; kim de büyüklük taslarsa Allah onu alçaltır.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Birr, 69",
+        "risale_ornek": "Bediüzzaman Hazretleri, kibirlenen firavunların ve zalimlerin tarih boyunca nasıl alçaltıldığını Hafid ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar",
+    },
+    {
+        "id": 24,
+        "isim": "El-Rafi",
+        "arapca": "الرافع",
+        "anlamı": "Şeref veren, dereceleri yükselten, müminleri aziz kılan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "...Alçaltıcı, yükselticidir.",
+        "ayet_sure": "Vakıa Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Şüphesiz Allah bu kitapla (Kur'an ile) bazı kavimleri yükseltir, başkalarını da alçaltır.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Müsafirin, 269",
+        "risale_ornek": "Bediüzzaman Hazretleri, iman ve ameliyle tevazu gösterenlerin manevi olarak makamlarının yükseltilmesini Rafi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar",
+    },
+    {
+        "id": 25,
+        "isim": "El-Muiz",
+        "arapca": "المعز",
+        "anlamı": "İstediğini aziz kılan, onurlandıran.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Dilediğini aziz kılarsın, dilediğini zelil edersin.",
+        "ayet_sure": "Ali İmran Suresi, 26. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İzzet ve şeref ancak Allah'a, Resulüne ve müminlere mahsustur.'",
+        "hadis_kaynagi": "Müsned-i Ahmed bin Hanbel",
+        "risale_ornek": "Bediüzzaman Hazretleri, hakikat ehlinin izzetini ve manevi üstünlüğünü Muiz isminin tecellisiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 26,
+        "isim": "El-Muzil",
+        "arapca": "المضل",
+        "anlamı": "Dilediğini hor ve hakir eden, zillet veren.",
+        "anlam_kaynagi": "Lisanü'l-Arab",
+        "ayet": "...Dilediğini zelil edersin.",
+        "ayet_sure": "Ali İmran Suresi, 26. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kim dünyada şöhret peşinde koşarsa veya kibirlenirse, kıyamet günü Allah onu zillet libasıyla hor kılacaktır.'",
+        "hadis_kaynagi": "İbn Mace, Libas, 8",
+        "risale_ornek": "Bediüzzaman Hazretleri, hakikate sırt çevirenlerin hak ettikleri zilleti Muzil ismi çerçevesinde bulduklarını belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 27,
+        "isim": "El-Semi",
+        "arapca": "السميع",
+        "anlamı": "Gizli açık her sesi, fısıltıyı en mükemmel işiten.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "O, her şeyi işiten ve görendir (Semi-i Basir).",
+        "ayet_sure": "Şura Suresi, 11. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Havle bint Sa'sebe'nin mücadelesini anlatan ayet üzerine Hz. Aişe validemiz 'Bütün sesleri işitene hamd olsun, kadının sesini işittim de ben perdenin arkasından bazı yerlerini kaçırdım' buyurmuştur.",
+        "hadis_kaynagi": "İbn Mace, Mukaddime, 13",
+        "risale_ornek": "Bediüzzaman Hazretleri, milyarlarca mahlukun aynı anda yaptığı duaları ve yalvarışları birbirine karıştırmadan işitmesini Semi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 28,
+        "isim": "El-Basir",
+        "arapca": "البصير",
+        "anlamı": "Her şeyi en ince detayına kadar gören, hiçbir şey gizli kalmayan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz Allah göklerin ve yerin gaybını bilir. Allah yaptıklarınızı görendir.",
+        "ayet_sure": "Hucurat Suresi, 18. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İhsan, Allah'ı görüyormuş gibi ibadet etmendir; çünkü sen O'nu görmesen de O seni kesinlikle görmektedir.'",
+        "hadis_kaynagi": "Sahih-i Buhari, İman, 37; Müslim, İman, 5",
+        "risale_ornek": "Bediüzzaman Hazretleri, karanlık gecede denizin dibindeki karıncanın hareketini dahi gören Basir isminin azametini misallerle anlatır.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 29,
+        "isim": "El-Hakem",
+        "arapca": "الحكم",
+        "anlamı": "Mutlak hakim, hak ile batılı ayıran, adil hüküm veren.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Kıyamet günü Allah aranızda hükmedecektir.",
+        "ayet_sure": "Hac Suresi, 69. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Şüphesiz hakem yalnız Allah'tır ve hüküm O'nundur.'",
+        "hadis_kaynagi": "Ebu Davud, Edeb, 61",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki tüm yasal ve fıtri hükümlerin Hakem isminin adaletli kanunlarıyla yürütüldüğünü ifade eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar",
+    },
+    {
+        "id": 30,
+        "isim": "El-Adl",
+        "arapca": "العدل",
+        "anlamı": "Mutlak adalet sahibi, zulmetmeyen.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Rabbinin kelimesi doğruluk ve adaletle tamamlanmıştır.",
+        "ayet_sure": "En'am Suresi, 115. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Adil olanlar, kıyamet gününde Rahman'ın katında nurdan minberler üzerinde olacaklardır.'",
+        "hadis_kaynagi": "Sahih-i Müslim, İmaret, 18",
+        "risale_ornek": "Bediüzzaman Hazretleri 30. Lem'a'da Adl ismini kâinattaki mizan esasıyla açıklar: Hiçbir zerre zayi olmaz, en küçük zulüm mahkeme-i kübrada karşılığını bulur.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Adl)",
+    },
+    {
+        "id": 31,
+        "isim": "El-Latif",
+        "arapca": "اللطيف",
+        "anlamı": "Lütuf sahibi, en ince işlerin detaylarını bilen ve zarif ihsanlarda bulunan.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "O latiftir, her şeyden haberdardır.",
+        "ayet_sure": "Mülk Suresi, 14. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Şüphesiz Allah latiftir, her işin ince detaylarını bilir ve hikmetiyle tedbir eder.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 89",
+        "risale_ornek": "Bediüzzaman Hazretleri, en küçük hücrelerde ve tohumlarda muazzam planların saklanmasını Latif isminin zarafetiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Latif)",
+    },
+    {
+        "id": 32,
+        "isim": "El-Habir",
+        "arapca": "الخبير",
+        "anlamı": "Her şeyin iç yüzünden, gizli hallerinden haberdar olan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "O, hikmet sahibidir, her şeyden haberdardır (Habir).",
+        "ayet_sure": "En'am Suresi, 18. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Ebubekir'e Resulullah (s.a.v.) sabah akşam okunacak bir dua öğrettiğinde '...ve ale'l-gaybi alimen ve habira' ibaresi yer almıştır.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 12; Ebu Davud, Edeb, 105",
+        "risale_ornek": "Bediüzzaman Hazretleri, atomların derinliklerindeki nizamı ve kalplerin niyetlerini Habir isminin ihatasıyla açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 33,
+        "isim": "El-Halim",
+        "arapca": "الحليم",
+        "anlamı": "Cezada acele etmeyen, kullarının kusurlarına karşı yumuşak davranan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Biliniz ki Allah bağışlayıcıdır, halimdir.",
+        "ayet_sure": "Bakara Suresi, 235. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Sıkıntı ve keder anında Resulullah (s.a.v.) 'La ilahe illallahü'l-azimü'l-halim...' diyerek Halim ismini vesile edinirdi.",
+        "hadis_kaynagi": "Sahih-i Buhari, Deavat, 27; Müslim, Zikir, 83",
+        "risale_ornek": "Bediüzzaman Hazretleri, insanların en büyük nankörlüklerine karşı bile rızıklarının kesilmemesini Halim isminin mühlet vermesiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 34,
+        "isim": "El-Azim",
+        "arapca": "العظيم",
+        "anlamı": "Pek yüce, azamet sahibi, akılların idrak edemeyeceği büyüklükte.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "O, yücedir, azimdir.",
+        "ayet_sure": "Bakara Suresi, 255. Ayet (Ayetü'l-Kürsi)",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Rükûda 'Sübhane rabbiye'l-azim' denilmesi emredilmiştir.",
+        "hadis_kaynagi": "Ebu Davud, Salat, 148; Tirmizi, Salat, 195",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinatın muazzam büyüklüğü karşısında insanın idrakinin aciz kalmasını Azim isminin tecellisiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 35,
+        "isim": "El-Gafur",
+        "arapca": "الغفور",
+        "anlamı": "Günahları çok bağışlayan, mağfireti bol olan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz Allah azizdir, gafurdur.",
+        "ayet_sure": "Fatır Suresi, 28. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Yeryüzünde bir kul 'estağfirullahellezi la ilahe illa hüve'l-hayyü'l-kayyumu ve etubu ileyh' derse, denizin köpüğü kadar günahı olsa bile affolunur.'",
+        "hadis_kaynagi": "Ebu Davud, Vitir, 26; Tirmizi, Deavat, 118",
+        "risale_ornek": "Bediüzzaman Hazretleri, samimi tevbe edenlerin bütün geçmiş günahlarının affedilmesini Gafur isminin geniş rahmetiyle müjdeler.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar",
+    },
+    {
+        "id": 36,
+        "isim": "El-Şekur",
+        "arapca": "الشكور",
+        "anlamı": "Az amele karşılık çok mükâfat veren, şükredenleri ödüllendiren.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz O gafurdur, şekurdur.",
+        "ayet_sure": "Şura Suresi, 23. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İnsanlara teşekkür etmeyen, Allah'a şükretmez.'",
+        "hadis_kaynagi": "Tirmizi, Birr, 35; Ebu Davud, Edeb, 11",
+        "risale_ornek": "Bediüzzaman Hazretleri, kulların küçük şükürlerine karşılık cennetler dolusu nimetler ihsan edilmesini Şekur ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Sözler",
+    },
+    {
+        "id": 37,
+        "isim": "El-Aliy",
+        "arapca": "العلي",
+        "anlamı": "Pek yüce, her şeyden muktedir ve üstün olan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Çünkü Allah yücedir, büyüktür.",
+        "ayet_sure": "Lokman Suresi, 30. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Secdede 'Sübhane rabbiye'l-ala' denilmesi emredilmiştir.",
+        "hadis_kaynagi": "Ebu Davud, Salat, 148",
+        "risale_ornek": "Bediüzzaman Hazretleri, hiçbir şeyin O'na denk olamayacağını ve her bakımından en üstün makamda olduğunu Aliy ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 38,
+        "isim": "El-Kebir",
+        "arapca": "الكبير",
+        "anlamı": "Mutlak büyük, azamet sahibi.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "O, büyük ve yücedir.",
+        "ayet_sure": "Ra'd Suresi, 9. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Ezan okunurken müezzin 'Allahu Ekber Allahu Ekber' diyerek Allah'ın mutlak büyüklüğünü ilan eder.",
+        "hadis_kaynagi": "Sahih-i Müslim, Salat, 38",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki en büyük galaksilerin bile O'nun kudreti karşısında bir zerre hükmünde olduğunu Kebir ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 39,
+        "isim": "El-Hafiz",
+        "arapca": "الحفيظ",
+        "anlamı": "Her şeyi muhafaza eden, gözetleyen, fenalıklardan koruyan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz Rabbim her şeyi koruyandır.",
+        "ayet_sure": "Hud Suresi, 57. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Sen Allah'ı koru ki (emirlerine riayet et) O da seni korusun. Sen Allah'ı gözet ki O'nu önünde bulasın.'",
+        "hadis_kaynagi": "Tirmizi, Kıyamet, 59",
+        "risale_ornek": "Bediüzzaman Hazretleri, tohumların toprak altında bozulmadan saklanmasını ve kâinatın hafızasında her amelin kayda geçirilmesini Hafiz ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 40,
+        "isim": "El-Mukit",
+        "arapca": "المقيت",
+        "anlamı": "Her türlü rızkı, azığı yaratan ve mahlukata ulaştıran.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Allah her şeye gücü yetendir (Mukit).",
+        "ayet_sure": "Nisa Suresi, 85. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Her kim günün başında veya sonunda rızkını taayyün ettiren Allah'a sığınırsa, Mukit ismiyle onun azığı verilir.'",
+        "hadis_kaynagi": "Buhari, Edebü'l-Müfred",
+        "risale_ornek": "Bediüzzaman Hazretleri, bedenlerin ve ruhların gıdalarını eksiksiz tayin edip ulaştıranın Mukit ismi olduğunu belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 41,
+        "isim": "El-Hasib",
+        "arapca": "الحسيب",
+        "anlamı": "Kulların hesabını en iyi gören, her şeye kâfi gelen.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Hesap görücü olarak Allah yeter.",
+        "ayet_sure": "Nisa Suresi, 6. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. İbrahim ateşe atıldığında 'Hasbünallahu ve ni'me'l-vekil' demiş, Allah da ona Hasib ismiyle kâfi gelmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tefsir, Ali İmran, 13",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki milyarlarca varlığın hesabının anlık olarak tutulmasını Hasib isminin azametiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar",
+    },
+    {
+        "id": 42,
+        "isim": "El-Celil",
+        "arapca": "الجليل",
+        "anlamı": "Celal ve azamet sahibi, büyük ve haşmetli.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Celal ve ikram sahibi Rabbinin adı yücedir.",
+        "ayet_sure": "Rahman Suresi, 27. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Yüce Allah azamet libasına bürünmüştür.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Birr, 136",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki yıldırımlar, dağlar ve haşmetli afetler arkasındaki ilahi heybeti Celil ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 43,
+        "isim": "El-Kerim",
+        "arapca": "الكريم",
+        "anlamı": "Çok cömert, ikramı bol, sözünde duran, lütufkâr.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Şüphesiz Rabbim zengindir, kerimdir.",
+        "ayet_sure": "Neml Suresi, 40. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Kadir gecesinde okunması tavsiye edilen duada 'Allahümme inneke afüvvün tuhibbü'l-afve fa'fu anni' diyerek Kerim olan Allah'tan affetmesi istenmiştir.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 84; İbn Mace, Dua, 5",
+        "risale_ornek": "Bediüzzaman Hazretleri, kullarına istemeden sonsuz ikramlarda bulunan ilahi cömertliği Kerim ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 44,
+        "isim": "El-Rakib",
+        "arapca": "الرقيب",
+        "anlamı": "Her varlığı, her ameli an be an gözetim altında tutan.",
+        "anlam_kaynagi": "Lisanü'l-Arab",
+        "ayet": "Şüphesiz Allah üzerinizde bir gözetleyicidir (Rakib).",
+        "ayet_sure": "Nisa Suresi, 1. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İnsanın sağında ve solunda oturmuş iki melek amellerini kaydetmektedir; o bir söz söylemez yanında mutlaka gözetleyen (rakib) hazır bulunur.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tefsir, Kaf, 1",
+        "risale_ornek": "Bediüzzaman Hazretleri, insanın kalbinden geçenleri dahi an be an denetleyen ilahi nezareti Rakib ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 45,
+        "isim": "El-Mucib",
+        "arapca": "المجيب",
+        "anlamı": "Dualara icabet eden, istekleri geri çevirmeyen.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz Rabbim yakındır, dualara icabet edendir.",
+        "ayet_sure": "Hud Suresi, 61. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kul günah işlemeyen veya akrabalık bağını koparmayan bir dua ile dua ettiği sürece, Allah ona mutlaka icabet eder.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 34",
+        "risale_ornek": "Bediüzzaman Hazretleri, en aciz anında mahlukatın yaptığı yakarışlara cevap veren ilahi merhameti Mucib ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 46,
+        "isim": "El-Vasi",
+        "arapca": "الواسع",
+        "anlamı": "İlmi, rahmeti, kudreti her şeyi kuşatan, geniş.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Allah lütfu bol olan, her şeyi bilendir (Vasi).",
+        "ayet_sure": "Bakara Suresi, 268. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Seher vakitlerinde yapılan istiğfarlarda ilahi rahmetin vasi olduğu, kuşatıcı affı beyan edilmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 35",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki hiçbir ihtiyacın ilahi rahmete dar gelmemesini Vasi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 47,
+        "isim": "El-Hakim",
+        "arapca": "الحكيم",
+        "anlamı": "Sonsuz hikmet sahibi, her işi kanunlu ve menfaatli kılan.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "O hakimdir, habirdir.",
+        "ayet_sure": "En'am Suresi, 18. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Hikmet müminin yitik malıdır, onu nerede bulursa alsın.'",
+        "hadis_kaynagi": "Tirmizi, İlim, 19; İbn Mace, Zühd, 15",
+        "risale_ornek": "Bediüzzaman Hazretleri 30. Lem'a'da Hakim ismini kâinattaki hiçbir şeyin abes yaratılmadığı hikmet hakikatiyle genişçe işler.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Hakim)",
+    },
+    {
+        "id": 48,
+        "isim": "El-Vedud",
+        "arapca": "الودود",
+        "anlamı": "Kullarını çok seven, sevilmeye en layık olan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz Rabbim çok merhametlidir, çok sevendir (Vedud).",
+        "ayet_sure": "Hud Suresi, 90. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah bir kulunu sevdiği zaman Cebrail'e 'Şüphesiz ben filanı seviyorum, sen de onu sev' diye nida eder.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Bedü'l-Halk, 6; Müslim, Birr, 157",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki bütün şefkat ve muhabbet duygularının Vedud isminin tecellisinden birer damla olduğunu açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Vedud)",
+    },
+    {
+        "id": 49,
+        "isim": "El-Mecid",
+        "arapca": "المجيد",
+        "anlamı": "Şanı yüce, şerefi ve kadrü kıymeti en büyük olan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz O övülmüştür, şanı yücedir (Mecid).",
+        "ayet_sure": "Hud Suresi, 73. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Namazlardaki Salli-Barik dualarında 'Inneke hamidün mecidin' diyerek Hz. İbrahim ve Resulullah'ın şanı yüce rahmete bağlandığı zikredilmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Deavat, 32; Müslim, Salat, 66",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki muazzam ihtişamın ve övgüye layık eserlerin Mecid isminin şerefini yansıttığını belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 50,
+        "isim": "El-Bais",
+        "arapca": "الباعث",
+        "anlamı": "Ölüleri dirilten, kabirlerden çıkaran, peygamber gönderen.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz Allah kabirdekileri diriltecektir.",
+        "ayet_sure": "Hac Suresi, 7. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İnsanlar kıyamet günü çıplak, sünnetsiz ve ilk yaratıldıkları gibi haşrolunacaklardır.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Rikak, 45; Müslim, Cennet, 58",
+        "risale_ornek": "Bediüzzaman Hazretleri, baharda milyarlarca bitkinin haşrini yapan kudretin insanı da ahirette dirilteceğini Bais ismiyle ispat eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 10. Söz (Haşir Risalesi)",
+    },
+    {
+        "id": 51,
+        "isim": "El-Sehid",
+        "arapca": "الشهيد",
+        "anlamı": "Her yerde hazır ve nazır olan, her şeye şahitlik eden.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz Allah her şeye şahittir.",
+        "ayet_sure": "Mucadele Suresi, 6. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Şehitler ve Allah her şeye şahittir; zulme uğrayan mazlumun duası ile Allah arasında perde yoktur.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 128",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki her anın ve amelin şahidi olan ilahi adaleti Sehid ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 52,
+        "isim": "El-Hakk",
+        "arapca": "الحق",
+        "anlamı": "Varlığı hak olan, gerçeğin kendisi, hükmü kesin olan.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Çünkü Allah Hak'tır ve ölüleri diriltir.",
+        "ayet_sure": "Hac Suresi, 6. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) gece teheccüde kalktığında 'Allahümme leke'l-hamdü ente'l-hakkü ve va'duke'l-hakkü...' diyerek dua ederdi.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 35; Müslim, Salatü'l-Müsafirin, 199",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki tüm hakikatlerin ve gayelerin Hak ismine dayandığını belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 53,
+        "isim": "El-Vekil",
+        "arapca": "الوكيل",
+        "anlamı": "Kendisine güvenilip dayanılan, işleri en güzel idare eden.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Allah bize yeter, O ne güzel vekildir.",
+        "ayet_sure": "Ali İmran Suresi, 173. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Boynuzlu koyundan boynuzsuz koyunun hakkı alınacaktır; ardından Allah onlara 'Toprak olun' der; işte kâfirin 'Keşke ben de toprak olsaydım' diyeceği zaman o zamandır.' (Vekalet ve hakkaniyet bağlamında)",
+        "hadis_kaynagi": "Tirmizi, Tefsir, 79",
+        "risale_ornek": "Bediüzzaman Hazretleri, kulların bütün işlerinde O'na tevekkül etmelerinin gereğini Vekil isminin emniyetiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 23. Söz",
+    },
+    {
+        "id": 54,
+        "isim": "El-Kavi",
+        "arapca": "القوي",
+        "anlamı": "Sınırsız güç ve kudret sahibi, hiç düşmeyen.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz Allah kuvvetlidir, azizdir.",
+        "ayet_sure": "Hac Suresi, 74. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kuvvetli mümin, Allah katında zayıf müminden daha hayırlı ve sevgilidir.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Kader, 34",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki en ağır yükleri bile kolayca çeviren mutlak kuvveti Kavi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 55,
+        "isim": "El-Metin",
+        "arapca": "المتين",
+        "anlamı": "Çok sağlam, kudretinde asla sarsıntı olmayan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz rızık veren, metin kudret sahibi olan Allah'tır.",
+        "ayet_sure": "Zariyat Suresi, 58. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İslam dini metin ve sağlamdır; bu dine derin bir yumuşaklık ve idrakle girin.'",
+        "hadis_kaynagi": "Müsned-i Ahmed bin Hanbel",
+        "risale_ornek": "Bediüzzaman Hazretleri, göklerin direksiz durmasını ve kâinat nizamının sarsılmamasını Metin ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 56,
+        "isim": "El-Veli",
+        "arapca": "الولي",
+        "anlamı": "İnananların dostu, yardımcısı ve koruyucusu.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Allah iman edenlerin dostudur (velisidir)...",
+        "ayet_sure": "Bakara Suresi, 257. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kim benim bir veli kuluma düşmanlık ederse, ben ona harp ilan ederim.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Rikak, 38",
+        "risale_ornek": "Bediüzzaman Hazretleri, müminlerin zor anlarında imdatlarına yetişen ilahi yakınlığı Veli ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 57,
+        "isim": "El-Hamid",
+        "arapca": "الحميد",
+        "anlamı": "Bütün övgülere ve şükürlere layık olan.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Aziz ve Hamid olan Allah'ın yoluna...",
+        "ayet_sure": "İbrahim Suresi, 1. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Fatiha suresinde 'Elhamdü lillahi rabbi'l-alemin' diyerek kulun ilk övgüyü Hamid olan Zat'a takdim ettiği bildirilmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Ezan, 94",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki bütün dillerin ve mahlukatın kendi halleriyle O'nu övmesini Hamid ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 58,
+        "isim": "El-Muhsi",
+        "arapca": "المحصي",
+        "anlamı": "Her şeyin sayısını, miktarını eksiksiz bilen.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Andolsun ki onları kuşatmış ve teker teker saymıştır (muhsi).",
+        "ayet_sure": "Meryem Suresi, 94. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İnsanın işlediği her zerre miktar hayır veya şer muhsi olan Zat tarafından en ince detayına kadar kaydedilir.'",
+        "hadis_kaynagi": "Tirmizi, Kıyamet, 2",
+        "risale_ornek": "Bediüzzaman Hazretleri, yağmur damlalarından yapraklara kadar hiçbir şeyin ilahi hesaptan kaçamayacağını Muhsi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 59,
+        "isim": "El-Mübdil",
+        "arapca": "المبديء",
+        "anlamı": "Varlıkları ilk defa örneksiz yaratan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz O, başlangıcı yapar ve yeniden diriltir (mübdil ve muid).",
+        "ayet_sure": "Buruc Suresi, 13. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah mahlukatı ilkin yaratır, sonra onu iade eder (diriltir); bu O'na pek kolaydır.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tefsir, Rum, 3",
+        "risale_ornek": "Bediüzzaman Hazretleri, kainatın ilk yaratılışındaki harikaları Mübdil ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 10. Söz",
+    },
+    {
+        "id": 60,
+        "isim": "El-Muid",
+        "arapca": "المعيد",
+        "anlamı": "Yarattıktan sonra öldürüp yeniden diriltecek olan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Yaratmayı ilkin yapan, sonra onu tekrarlayan (muid) O'dur.",
+        "ayet_sure": "Rum Suresi, 27. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ölümünden sonra insan parmak uçlarına varıncaya kadar yeniden muid olan Allah tarafından diriltilecektir.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tefsir, Kıyame, 3",
+        "risale_ornek": "Bediüzzaman Hazretleri, ahiretteki yeniden dirilişin ilk yaratılış kadar kolay olduğunu Muid ismiyle ispat eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 10. Söz",
+    },
+    {
+        "id": 61,
+        "isim": "El-Muhyi",
+        "arapca": "المحيي",
+        "anlamı": "Hayat veren, dirilten.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz O ölüleri diriltkendir (muhyidir).",
+        "ayet_sure": "Fussilet Suresi, 39. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ölü toprağa yağmur indirip onu canlandıran Zat, ölmüş insanları da kabirlerinden aynen öyle diriltecektir.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Cuma, 14",
+        "risale_ornek": "Bediüzzaman Hazretleri, ölmüş toprakların baharda binbir çeşit hayatla donatılmasını Muhyi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 62,
+        "isim": "El-Mumit",
+        "arapca": "المميت",
+        "anlamı": "Canlıların ölümünü yaratan, hayatı sonlandıran.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Yaratan ve öldüren O'dur.",
+        "ayet_sure": "Ali İmran Suresi, 156. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ölüm, mümin için bir hediyedir (dünya zindanından ebedi aleme geçiş terhisatıdır).'",
+        "hadis_kaynagi": "Beyhaki, Şuabü'l-İman",
+        "risale_ornek": "Bediüzzaman Hazretleri, ölümün yok olmak değil, vazife değiştirme ve terhis olduğunu Mumit ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 10. Söz",
+    },
+    {
+        "id": 63,
+        "isim": "El-Hayy",
+        "arapca": "الحي",
+        "anlamı": "Ebedi diri olan hayat kaynağı.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "O, ölümsüz ve daima diri olandır...",
+        "ayet_sure": "Mümin Suresi, 65. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ya Hayyü ya Kayyumü bir rahmetike esteğıys...' (Sıkıntı anında yapılan bu dua Hayy isminin celbedilmesidir).",
+        "hadis_kaynagi": "Tirmizi, Deavat, 91",
+        "risale_ornek": "Bediüzzaman Hazretleri 30. Lem'a'da Hayy ismini kâinattaki daimi hayat dalgalanmaları ve bahar dirilişleriyle detaylıca işler.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Hayy)",
+    },
+    {
+        "id": 64,
+        "isim": "El-Kayyum",
+        "arapca": "القيوم",
+        "anlamı": "Kâinatı ayakta tutan ve idare eden.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "O Hayy'dır, Kayyum'dur.",
+        "ayet_sure": "Bakara Suresi, 255. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Yatarken Ayetü'l-Kürsi'yi okuyanın sabaha kadar koruyucusu olur, şeytan ona yaklaşamaz.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Vekale, 10",
+        "risale_ornek": "Bediüzzaman Hazretleri 30. Lem'a'da Kayyum ismini kâinatın her an kudretle ayakta tutulması esasıyla izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (İsm-i Kayyum)",
+    },
+    {
+        "id": 65,
+        "isim": "El-Vacid",
+        "arapca": "الواجد",
+        "anlamı": "Hiçbir şeyi kaybetmeyen, aradığını dilediği an bulan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Seni kaybolmuş bulup da yönlendirmedi mi?",
+        "ayet_sure": "Duha Suresi, 7-8. Ayetler",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Yüce Allah aradığını asla elinden kaçırmaz; her şey O'nun ilim ve kudret kabzasındadır.'",
+        "hadis_kaynagi": "Müsned-i Ahmed bin Hanbel",
+        "risale_ornek": "Bediüzzaman Hazretleri, kainatta hiçbir zerrenin kaybolmadığını Vacid ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 66,
+        "isim": "El-Macid",
+        "arapca": "الماجد",
+        "anlamı": "Şanı yüce, kerem ve cömertliği sonsuz.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz O övülmüştür, maciddir.",
+        "ayet_sure": "Hud Suresi, 73. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Namaz tahiyyatında ve dualarda şanı yüce olan Macid Zat'a övgüler sunulmuştur.",
+        "hadis_kaynagi": "Sahih-i Buhari, Ezan, 148",
+        "risale_ornek": "Bediüzzaman Hazretleri, ilahi ihsanların yüceliğini Macid ismiyle vurgular.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 67,
+        "isim": "El-Vahid",
+        "arapca": "الواحد",
+        "anlamı": "Zatında, sıfatlarında ortağı ve benzeri olmayan tek.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "De ki: O Allah tektir (vahid/ahad).",
+        "ayet_sure": "İhlas Suresi, 1. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İhlas suresini okumak Kur'an'ın üçte birini okumaya denk kabul edilmiştir.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Fezailü'l-Kur'an, 13",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki birliğin tek bir Vahid'in eserinden başka olamayacağını ispat eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 33. Söz",
+    },
+    {
+        "id": 68,
+        "isim": "El-Ahad",
+        "arapca": "الأحد",
+        "anlamı": "Tek ve eşsiz olan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "De ki: Allah ahad'dır.",
+        "ayet_sure": "İhlas Suresi, 1. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Bilal b. Rebah işkence görürken 'Ahad, Ahad' diyerek tek olan Allah'a olan imanını haykırmıştır.",
+        "hadis_kaynagi": "İbn Hişam, Siretü'ne-Nebiy",
+        "risale_ornek": "Bediüzzaman Hazretleri, her şeyin mutlak birliğe işaret ettiğini Ahad ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 33. Söz",
+    },
+    {
+        "id": 69,
+        "isim": "El-Samed",
+        "arapca": "الصمد",
+        "anlamı": "Her şeyin kendisine muhtaç olduğu, kendisi hiçbir şeye muhtaç olmayan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Allah sameddir.",
+        "ayet_sure": "İhlas Suresi, 2. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) bir adamın 'Allahümme inni es'elüke bienneke entellahü'l-ehadü's-samed...' diyerek dua ettiğini işitince 'Bu zat ism-i azam ile dua etti' buyurmuştur.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 100; Ebu Davud, Vitir, 23",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki bütün varlıkların ihtiyaç anında yalvardığı merciin Samed olduğunu muazzam bir tefsirle anlatır.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Sözler (İhlas Risalesi)",
+    },
+    {
+        "id": 70,
+        "isim": "El-Kadir",
+        "arapca": "القادر",
+        "anlamı": "Her şeye gücü yeten, dilediğini yaratan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "De ki: O, başınıza üstünüzden bir azap göndermeye kadirdir.",
+        "ayet_sure": "En'am Suresi, 65. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Gece kalkıp dua eden kimse 'Leke'l-hamdü ente ala külli şey'in kadir' diyerek Kadir ismini zikretmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 35",
+        "risale_ornek": "Bediüzzaman Hazretleri, baharı yaratmakla bir sineği yaratmak O'nun kudretinde birdir hakikatini Kadir ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 71,
+        "isim": "El-Muktedir",
+        "arapca": "المقتدر",
+        "anlamı": "Mutlak kudret sahibi, her şeye gücü yeten.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Mutlak kudret sahibi bir melikin katında (muktedir).",
+        "ayet_sure": "Kamer Suresi, 42. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Meclislerden kalkarken okunan kefaret duasında muktedir olan Allah'ın kusurları bağışlaması istenmiştir.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 39",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki devasa galaksileri kolayca döndüren kudreti Muktedir ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 72,
+        "isim": "El-Mukaddim",
+        "arapca": "المقدم",
+        "anlamı": "Dilediğini öne geçiren, yükselten.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Huzurumda çekişmeyin, ben size daha önce uyarı göndermiştim.",
+        "ayet_sure": "Kaf Suresi, 28. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) gece namazındaki istifhtap (başlangıç) duasında 'Ente'l-mukaddimü ve ente'l-muahhir' diyerek bu ismi zikretmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 35; Müslim, Salatü'l-Müsafirin, 199",
+        "risale_ornek": "Bediüzzaman Hazretleri, tarih sahnesinde bazı milletleri ve şahsiyetleri öne geçiren hikmeti Mukaddim ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 73,
+        "isim": "El-Muahhir",
+        "arapca": "المؤخر",
+        "anlamı": "Dilediğini arkaya bırakan, geciktiren.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Sizin ecelinizi belirlenmiş bir süreye kadar erteler (muahhir).",
+        "ayet_sure": "Nuh Suresi, 4. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Gece dualarında öne geçiren ve arkaya bırakan yalnız Sensin diyerek Muahhir ismi yüceltilmiştir.",
+        "hadis_kaynagi": "Sahih-i Müslim, Salatü'l-Müsafirin, 199",
+        "risale_ornek": "Bediüzzaman Hazretleri, ilahi hikmet gereği bazı işlerin ve cezaların ertelenmesini Muahhir ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 74,
+        "isim": "El-Evvel",
+        "arapca": "الأول",
+        "anlamı": "Varlığının başlangıcı olmayan, ezeli.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "O Evvel'dir, Ahir'dir, Zahir'dir, Batin'dir.",
+        "ayet_sure": "Hadid Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Yatağa girerken yapılan duada 'Allahümme ente'l-evvelü fe leyse kableke şeyün...' denilerek Evvel ismi zikredilmiştir.",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 61",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinatın ve zamanın başlangıcından önce de var olan ezeli Hakikat'i Evvel ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 75,
+        "isim": "El-Ahir",
+        "arapca": "الآخر",
+        "anlamı": "Varlığının sonu olmayan, ebedi.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "O Evvel'dir, Ahir'dir...",
+        "ayet_sure": "Hadid Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Yatış duası devamında '...ve ente'l-ahirü fe leyse ba'deke şeyün' şeklinde Ahir ismi vurgulanmıştır.",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 61",
+        "risale_ornek": "Bediüzzaman Hazretleri, bütün mahlukat yok oldukktan sonra baki kalan tek Zat'ın Ahir ismi olduğunu belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 76,
+        "isim": "El-Zahir",
+        "arapca": "الظاهر",
+        "anlamı": "Varlığı delilleriyle apaçık ortadan görünen.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "O Zahir'dir ve Batin'dir.",
+        "ayet_sure": "Hadid Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Gece duası devamında '...ve ente'z-zahirü fe leyse fevkake şeyün' ifadesiyle Zahir ismi zikredilmiştir.",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 61",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki her bir eser ve nizamın açık birer imza gibi Yaratıcı'yı göstermesini Zahir ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 77,
+        "isim": "El-Batin",
+        "arapca": "الباطن",
+        "anlamı": "Zatının mahiyeti gizli olan, gözlerle idrak edilemeyen.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "O Zahir'dir ve Batin'dir.",
+        "ayet_sure": "Hadid Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Yatış duasının sonunda '...ve ente'l-batinü fe leyse düneke şeyün' denilerek Batin ismi mukaddes kılınmıştır.",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 61",
+        "risale_ornek": "Bediüzzaman Hazretleri, akılların Zat'ının hakikatini kavramaktan aciz kalmasını Batin ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a",
+    },
+    {
+        "id": 78,
+        "isim": "El-Vali",
+        "arapca": "الوالي",
+        "anlamı": "Kâinatı ve bütün işleri tek başına yöneten.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "İnsanı önünden ve arkasından takip eden melekler vardır...",
+        "ayet_sure": "Ra'd Suresi, 11. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'İşlerin idaresi ve tedbiri yalnız kâinatın Valisi olan Allah'a aittir.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 110",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinat sarayındaki bütün işlerin bir tek Vali tarafından idare edildiğini belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 79,
+        "isim": "El-Müteali",
+        "arapca": "المتعالي",
+        "anlamı": "Akla gelebilecek her türlü zihni tasavvurdan yüce ve münezzeh.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Büyük ve yüce olan (müteali) Allah'ın şanı yücedir.",
+        "ayet_sure": "Ra'd Suresi, 9. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Gaybın anahtarlarını bilen ve her tasavvurun ötesinde müteali olan Zat'a hamdolsun.",
+        "hadis_kaynagi": "Buhari, Tevhid, 35",
+        "risale_ornek": "Bediüzzaman Hazretleri, ilahi azametin insan düşüncesinin çok ötesinde olduğunu Müteali ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 80,
+        "isim": "El-Berr",
+        "arapca": "البّر",
+        "anlamı": "İyilik ve ihsanı bol olan, kullarına kolaylık veren.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Şüphesiz biz daha önce O'na yalvardık. O gerçekten iyilik edendir (berr).",
+        "ayet_sure": "Tur Suresi, 28. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Talha'nın rivayetine göre Bedir ehli hakkında müminlere rahmet eden Berr Zat'ın ikramları zikredilmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Megazi, 9",
+        "risale_ornek": "Bediüzzaman Hazretleri, kullarına sürekli iyilik ve rahmet ulaştıran ilahi şefkati Berr ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 81,
+        "isim": "El-Tevvab",
+        "arapca": "التواب",
+        "anlamı": "Tevbeleri kabul eden, günahları bağışlayan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz O tevbeyi çok kabul eden, merhamet edendir.",
+        "ayet_sure": "Bakara Suresi, 37. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Güneş batıdan doğmadan önce kim tevbe ederse, Allah onun tevbesini kabul eder (Tevvab'dır).'",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 43",
+        "risale_ornek": "Bediüzzaman Hazretleri, kullarının pişmanlıklarını kabul edip onları tertemiz kılan ilahi merhameti Tevvab ismiyle müjdeler.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Lem'alar",
+    },
+    {
+        "id": 82,
+        "isim": "El-Muntekim",
+        "arapca": "المنتقم",
+        "anlamı": "Zalimlerin ve suçluların hak ettikleri cezayı veren.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz biz suçlulardan intikam alıcıyız.",
+        "ayet_sure": "Secde Suresi, 22. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) dua ederken 'Allahümme inni euzü bircake min sakatike...' diyerek zalimlerin cezasını veren Muntekim adaletine sığınmıştır.",
+        "hadis_kaynagi": "Sahih-i Müslim, Salat, 222",
+        "risale_ornek": "Bediüzzaman Hazretleri, ilahi adaletin tecellisi olarak zalimlerin cezasız kalmadığını Muntekim ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Şualar",
+    },
+    {
+        "id": 83,
+        "isim": "El-Afüvv",
+        "arapca": "العفو",
+        "anlamı": "Günahları affeden, bağışlayan, suçları silen.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Şüphesiz Allah çok affedicidir, bağışlayıcıdır.",
+        "ayet_sure": "Hac Suresi, 60. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Hz. Aişe validemiz 'Ya Resulallah, Kadir gecesine rastlarsam nasıl dua edeyim?' diye sorduğunda Efendimiz 'Allahümme inneke afüvvün tuhibbü'l-afve fa'fu anni' de' buyurmuştur.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 84; İbn Mace, Dua, 5",
+        "risale_ornek": "Bediüzzaman Hazretleri, kulların affedilme ümidini canlı tutan Afüvv isminin kuşatıcı rahmetini açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 84,
+        "isim": "El-Rauf",
+        "arapca": "الرؤوف",
+        "anlamı": "Çok şefkatli, merhamet sahibi, yumuşak kalpli.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Şüphesiz Allah şefkatlidir, merhametlidir.",
+        "ayet_sure": "Nur Suresi, 20. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) hakkında Kur'an'da 'Biliniz ki o müminlere çok şefkatli ve merhametlidir (rauf)' buyrulmuştur.",
+        "hadis_kaynagi": "Tevbe Suresi, 128",
+        "risale_ornek": "Bediüzzaman Hazretleri, kullarına bir anne şefkatinden kat kat ziyade merhamet eden ilahi şefkati Rauf ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 85,
+        "isim": "Malikü'l-Mülk",
+        "arapca": "مالك الملك",
+        "anlamı": "Mülkün ebedi ve hakiki sahibi.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "De ki: Ey mülkün sahibi olan Allah'ım!",
+        "ayet_sure": "Ali İmran Suresi, 26. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Kıyamet günü yeryüzünün sahibi ve Melik'lerin Meliki olan Allah tek hakim olarak zuhur edecektir.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Tefsir, Nun, 1",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki hiçbir varlığın hakiki malik olamayacağını, mülkün tek sahibinin Malikü'l-Mülk olduğunu açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 11. Söz",
+    },
+    {
+        "id": 86,
+        "isim": "Zü'l-Celâli ve'l-İkrâm",
+        "arapca": "ذو الجلال والإكرام",
+        "anlamı": "Celal (azamet) ve ikram (cömertlik) sahibi.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Celal ve ikram sahibi Rabbinin adı yücedir.",
+        "ayet_sure": "Rahman Suresi, 27. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) namazdan sonra selam verince 'Ya zel-celali vel-ikram' diyerek dua edilmesinde ısrarla bulunmuştur.",
+        "hadis_kaynagi": "Tirmizi, Salat, 227",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki haşmet ile lütfun birleştiği noktada bu ismin tecelli ettiğini belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 87,
+        "isim": "El-Muksit",
+        "arapca": "المقسط",
+        "anlamı": "Bütün işlerini adaletle, denge ve uyum içinde yapan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Adaletle ayakta duran Allah...",
+        "ayet_sure": "Ali İmran Suresi, 18. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Adalet sahibi olanlar (muksitler), kıyamet gününde Rahman'ın katında nurdan kürsüler üzerinde oturacaklardır.'",
+        "hadis_kaynagi": "Sahih-i Müslim, İmaret, 18",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki kusursuz dengeyi Muksit ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 88,
+        "isim": "El-Cami",
+        "arapca": "الجامع",
+        "anlamı": "İstediğini istediği yerde toplayan, haşir gününde mahlukatı bir araya getiren.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Şüphesiz Allah insanları gelmesinde şüphe olmayan günde toplayacaktır.",
+        "ayet_sure": "Ali İmran Suresi, 9. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Ey kalpleri halden hale çeviren Allah'ım! Kalbimi senin dinin üzere sabit kıl.' (Cami olan Zat'a yakarış)",
+        "hadis_kaynagi": "Tirmizi, Deavat, 89",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki dağınık unsurların baharda yeniden derlenmesini ve ahiretteki haşri Cami ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 10. Söz",
+    },
+    {
+        "id": 89,
+        "isim": "El-Gani",
+        "arapca": "الغني",
+        "anlamı": "Zengin, hiçbir şeye ihtiyacı olmayan, her şey O'na muhtaç.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Ey insanlar, siz Allah'a muhtaçsınız; Allah ise Gani'dir.",
+        "ayet_sure": "Fatır Suresi, 15. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Gerçek zenginlik mal çokluğu değil, gönül zenginliğidir (Gani olan Allah'ın kalbe verdiği kanaattir).'",
+        "hadis_kaynagi": "Sahih-i Buhari, Rikak, 15; Müslim, Zekat, 120",
+        "risale_ornek": "Bediüzzaman Hazretleri, hiçbir şeye el uzatmayan ama her şeye yeten mutlak zenginliği Gani ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 90,
+        "isim": "El-Mugni",
+        "arapca": "المغني",
+        "anlamı": "Dilediğini zengin eden, ihtiyaç gideren.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Eğer fakirlik korkarsanız, Allah dilerse sizi lütfuyla zengin eder.",
+        "ayet_sure": "Tevbe Suresi, 28. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah'ım! Senden hidayet, takva, iffet ve gönül zenginliği (mugni lütfunu) isterim.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 72",
+        "risale_ornek": "Bediüzzaman Hazretleri, kullarının rızık ve ihtiyaçlarını vererek onları hoşnut kılan ilahi inayeti Mugni ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 91,
+        "isim": "El-Mani",
+        "arapca": "المانع",
+        "anlamı": "Dilediği şeyin gerçekleşmesine engel olan, zararları savan.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Eğer Allah sana bir zarar dokundurursa, O'ndan başka onu giderecek yoktur.",
+        "ayet_sure": "En'am Suresi, 17. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah'ım! Senin verdiğine mani olacak hiç kimse yoktur, mani olduğun şeyi de verecek yoktur.'",
+        "hadis_kaynagi": "Sahih-i Buhari, Ezan, 155; Müslim, Salat, 205",
+        "risale_ornek": "Bediüzzaman Hazretleri, kötü niyetlerin ve afetlerin ilahi izinle engellenmesini Mani ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 92,
+        "isim": "El-Darr",
+        "arapca": "الضار",
+        "anlamı": "Hikmeti gereği elem ve zarar yaratan.",
+        "anlam_kaynagi": "Elmalılı Hamdi Yazır",
+        "ayet": "Eğer Allah sana bir zarar verirse...",
+        "ayet_sure": "En'am Suresi, 17. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) sığınma dualarında hayrın da şerrin de (zararın da) Allah'ın takdiriyle olduğunu beyan etmiştir.",
+        "hadis_kaynagi": "Sahih-i Müslim, Kader, 1",
+        "risale_ornek": "Bediüzzaman Hazretleri, imtihan gereği başa gelen musibetlerin ve zararlı gibi görünen unsurların arkasındaki ilahi hikmetleri açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 93,
+        "isim": "El-Nafi",
+        "arapca": "النافع",
+        "anlamı": "Fayda ve menfaat yaratan, hayır ihsan eden.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Onlar kendilerine ne bir zarar ne de bir fayda verebilirler.",
+        "ayet_sure": "Furkan Suresi, 3. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Faydalı olanı istemeye devam et, Allah'tan yardım dile ve asla acizlik gösterme.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Kader, 34",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki bütün menfaatlerin ve tatlı nimetlerin Nafi isminden kaynaklandığını belirtir.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 94,
+        "isim": "El-Nur",
+        "arapca": "النور",
+        "anlamı": "Kâinatı aydınlatan, kalpleri ve ruhları nurlandıran.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Allah göklerin ve yerin nurudur.",
+        "ayet_sure": "Nur Suresi, 35. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) gece namaza kalktığında 'Allahümme leke'l-hamdü ente nuru's-semavati ve'l-ardı...' diyerek Nur ismini zikretmiştir.",
+        "hadis_kaynagi": "Sahih-i Buhari, Tevhid, 35",
+        "risale_ornek": "Bediüzzaman Hazretleri, hem maddi kainatın güneşlerle aydınlatılmasını hem de kalplerin iman nuruyla tenvir edilmesini Nur ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 30. Lem'a (Nur Risalesi)",
+    },
+    {
+        "id": 95,
+        "isim": "El-Hadi",
+        "arapca": "الهادي",
+        "anlamı": "Hidayet veren, doğru yolu gösteren.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Şüphesiz Allah iman edenleri doğru yola iletendir.",
+        "ayet_sure": "Hac Suresi, 54. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah bir kimseye hidayet verirse onu saptıracak yoktur, saptırdığına da hidayet edecek yoktur.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Cuma, 45",
+        "risale_ornek": "Bediüzzaman Hazretleri, kalplere hidayet tohumları eken ve aklıselimi yönlendiren ilahi inayetleri Hadi ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 96,
+        "isim": "El-Bedi",
+        "arapca": "البديع",
+        "anlamı": "Örneksiz, benzersiz, mucizevi güzellikte yaratan.",
+        "anlam_kaynagi": "İbn Manzur",
+        "ayet": "Gökleri ve yeri örneksiz yaratandır (bedidir).",
+        "ayet_sure": "Bakara Suresi, 117. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Resulullah (s.a.v.) dualarında celal ve ikram sahibi olan, gökleri ve yeri örneksiz yaratan Bedi ismini sena etmiştir.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 100",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki her an yeniden yaratılan harika sanat eserlerini Bedi ismiyle izah eder.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 20. Mektup",
+    },
+    {
+        "id": 97,
+        "isim": "El-Baki",
+        "arapca": "الباقي",
+        "anlamı": "Varlığının sonu olmayan, ebedi.",
+        "anlam_kaynagi": "İmam Gazali",
+        "ayet": "Ancak celal ve ikram sahibi Rabbin zatı baki kalacaktır.",
+        "ayet_sure": "Rahman Suresi, 27. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Dünya tatlı ve yeşildir; şüphesiz Allah sizi orada halife kılıyor ve nasıl amel edeceğinize bakıyor.'",
+        "hadis_kaynagi": "Sahih-i Müslim, Zikir, 99",
+        "risale_ornek": "Bediüzzaman Hazretleri 'Baki kalmak ister misiniz? Baki bir Zat'a bağlanın' düsturuyla fani dünyanın arkasındaki Baki hakikatini açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, 3. Söz",
+    },
+    {
+        "id": 98,
+        "isim": "El-Varis",
+        "arapca": "الوارث",
+        "anlamı": "Bütün mahlukatın hakiki sahibi ve varisi olan, baki kalan.",
+        "anlam_kaynagi": "Fahreddin er-Razi",
+        "ayet": "Şüphesiz biz diriltiriz ve öldürürüz; varis olanlar biziz.",
+        "ayet_sure": "Hicr Suresi, 23. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "Dualarda mülkün ve yeryüzünün mirasının hakiki sahibi olan Varis sıfatı zikredilmiştir.",
+        "hadis_kaynagi": "Tirmizi, Deavat, 79",
+        "risale_ornek": "Bediüzzaman Hazretleri, fani sahiplerin ardından mülkün gerçek sahibinde kalacağını Varis ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+    {
+        "id": 99,
+        "isim": "El-Reşid",
+        "arapca": "الرشيد",
+        "anlamı": "Bütün işleri en doğru neticeye ulaştıran, irşat eden.",
+        "anlam_kaynagi": "Kamus-u Muhit",
+        "ayet": "Şüphesiz sen halim ve reşidsin.",
+        "ayet_sure": "Hud Suresi, 87. Ayet",
+        "ayet_kaynagi": "DİB Kur'an-ı Kerim Meali",
+        "hadis": "'Allah'ım! İşlerimin en doğrusunu (reşid olan neticesini) bana ilham et ve nefsimin şerrinden beni koru.'",
+        "hadis_kaynagi": "Tirmizi, Deavat, 68",
+        "risale_ornek": "Bediüzzaman Hazretleri, kâinattaki tüm sevk ve idarelerin en hikmetli ve doğru sonuca ulaştırılmasını Reşid ismiyle açıklar.",
+        "risale_kaynak": "Risale-i Nur Külliyatı, Mektubat",
+    },
+]
 
 # ID'ye göre sıralayalım
 esma_veritabani = sorted(esma_veritabani, key=lambda x: x["id"])
